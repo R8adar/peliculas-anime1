@@ -1,0 +1,199 @@
+<item>
+<title>[COLOR white][B]Capitulo 1[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/w369te739ts'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/w369te739ts'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 2[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/ysf4p0fw803'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/ysf4p0fw803'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 3[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/7l62jokgx2'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/7l62jokgx2'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 4[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/wffltk1c4w'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/wffltk1c4w'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 5[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/8da1of643kvgn'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/8da1of643kvgn'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 6[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/ih9ka1gd4jfac'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/ih9ka1gd4jfac'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 7[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/nkpti9699tdz'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/nkpti9699tdz'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 8[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/p6fiv9v2x9jqn'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/p6fiv9v2x9jqn'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 9[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/35dm8foutpv5y'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/35dm8foutpv5y'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 10[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/4q42fra5tl'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/4q42fra5tl'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>

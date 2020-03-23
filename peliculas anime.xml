@@ -1,0 +1,1135 @@
+<item>
+<title>[COLOR white][B]Kyochuu Rettou Movie (2020)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1SzWRXb3eKRsEBhurjZrImhaVy9VHOhz3/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1SzWRXb3eKRsEBhurjZrImhaVy9VHOhz3/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3259.jpg</thumbnail>
+<info>Después de un accidente de avión durante un viaje escolar, Oribe Mutsumi y sus compañeros de clase quedaron varados en una isla aparentemente desierta. Mutsumi encontró a los otros sobrevivientes y usó sus conocimientos para ayudarlos. Estos esperan a ser rescatados al menos en tres días, lo que no parece ser mucho tiempo. Sin embargo, Mutsumi no tuvo en cuenta el hecho de que la isla está poblada por gigantescos insectos asesinos. Su conocimiento de mariposas, avispas y demás, puede ser lo único que le ayude a que alguno de sus compañeros de clase sobreviva antes de ser rescatados.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Black Fox (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1-OFjKhFgpJfW-NVVzRhMqu490sYXai3J/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1-OFjKhFgpJfW-NVVzRhMqu490sYXai3J/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3196.jpg</thumbnail> 
+<info>Rikka, la hija mayor de un clan Ninja, que admira mucho a su padre, un investigador, vive en una residencia ninja escondida en un rincón de una ciudad futurista. Continuando con su vida normalmente, la casa de Rikka fue repentinamente atacada un día. Llevada a una esquina, ¿qué haría ella para superar esta crisis? ¡Rompe la oscuridad en pedazos y conviértete en "BLACK"!</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Youjo Senki (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1v06l-PQ2EJ18xtHSKA342rYXw0rqzo3d/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1v06l-PQ2EJ18xtHSKA342rYXw0rqzo3d/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3182.jpg</thumbnail>
+<info>Año 1926. El Batallón Aéreo de Magos 203 del Ejército Imperial, comandado por la Mayor Tanya von Degurechaff, se alzó con la victoria en la batalla del sur contra la República. Habiendo regresado bañados en gloria y con las mieles del éxito en la boca, esperaban poder descansar un poco, pero el cuartel general les envía nuevas órdenes especiales en el mismo momento en el que ponen un pie en casa. Su nueva misión es investigar los reportes de un despliegue a gran escala en la linde de la frontera entre el Imperio y la Federación. Ante el propspecto de un nuevo enemigo a batir, las llamas de la guerra se avivan en un desesperado Imperio, Mientras tanto, un ejército de voluntarios liderados por los Estados Unificados se adentra en territorio de la Federación. Como suele decirse: los enemigos de mis enemigos, son mis amigos. Pese a tener buenas intenciones, la desgracia recae sobre ellos en favor de los intereses nacionales, y entre ellos hay cierta joven. Es la suboficial Mary Sue, quien se ha alzado en armas para llevar al Imperio ante la justicia por haber asesinado a su padre.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Trinity Seven: Tenkuu Toshokan to Shinku no Maou (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1vHftWZatFoZA21DZPnCl7gd922aDiyBR/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1vHftWZatFoZA21DZPnCl7gd922aDiyBR/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3106.jpg</thumbnail>  
+<info></info>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1LgiEZZ3UYd5Y9XkEDcwPVGf9wGq6DrMa/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1LgiEZZ3UYd5Y9XkEDcwPVGf9wGq6DrMa/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3230.jpg</thumbnail>    
+<info>En Fujisawa, donde los cielos son brillantes y los mares brillan, Sakuta Azusagawa está en su segundo año de secundaria. Sus días felices con su novia y estudiante de último año, Mai Sakurajima, se ven interrumpidos con la aparición de su primer enamoramiento, Shouko Makinohara. Por razones desconocidas, se encuentra con dos Shouko: uno en la escuela secundaria y otro que se ha convertido en un adulto. Cuando Sakuta se encuentra impotente viviendo con los Shouko, el adulto Shouko lo lleva por la nariz, causando una gran grieta en su relación con Mai. En medio de todo esto, descubre que la escuela secundaria Shouko sufre una enfermedad grave y su cicatriz comienza a palpitar ...</info>    
+<item>
+ 
+<item>
+<title>[COLOR white][B]Kimi to, Nami ni Noretara (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1BvW6SQ1TgURfsQJ_mAnYldIhzG55Cflk/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1BvW6SQ1TgURfsQJ_mAnYldIhzG55Cflk/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3269.jpg</thumbnail> 
+<info>Esta romántica historia sigue a Minato, una estudiante universitaria que se muda a un pueblo costero. Ella ama surfear, y cuando está sobre las olas se siente capaz de hacer cualquier cosa, pero en tierra tiene problemas con las olas de la vida. Cuando un incendio desata el caos en el pueblo, Hinako se encuentra con un bombero llamado Minato. Él es capaz de hacer cualquier cosa en tierra, pero es un novato en lo relativo al surf. </info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1RiibD2bly119Ha-2dTdEgvNiE2WsXYKQ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1RiibD2bly119Ha-2dTdEgvNiE2WsXYKQ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3143.jpg</thumbnail>  
+<info>La historia del OVA tiene lugar después de que Subaru y sus amigos derrotan a los Wolgarm, la fuente de la maldición, y salvan a los niños de la aldea de Irlam. Los personajes finalmente obtienen un momento de paz, y Subaru realiza cierta misión secreta que no debe dejar que nadie descubra. Sin embargo, a pesar de que Subaru lleva un disfraz, Petra y otros niños del pueblo inmediatamente descubren quién es. Ahora que su misión quedó expuesta a los cinco segundos de comenzar, ¿qué pasará con la “cita” de Subaru con Emilia?</info>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Boku no Hero Academia the Movie: Futari no Hero (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1JeSzv70oMTKxEtX9ODyODK3-fUAun-e6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1JeSzv70oMTKxEtX9ODyODK3-fUAun-e6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3103.jpg</thumbnail>    
+<info>En el extranjero existe una ciudad gigante, flotante, creada por el hombre: I Island. La película tendrá lugar tras el arco del examen final, en verano, pero antes del arco de entrenamiento del bosque. Asimismo, se revelará más información del pasado de All Might.</info>    
+<item>
+ 
+<item>
+<title>[COLOR white][B]Pokemon: Minna no Monogatari (2018)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1WT7l3kK4OkmZdw2thWQ9RnhaoTlZCCEC/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1WT7l3kK4OkmZdw2thWQ9RnhaoTlZCCEC/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3061.jpg</thumbnail> 
+<info>La película cuenta la continuación de la historia alternativa del viaje de Ash iniciada en I Choose You! (Kimi ni Kimeta!), siendo su secuela, y es protagonizada por Lugia y Zeraora.</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Kimi no Suizou wo Tabetai (2018)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/15WpFHn5Ur361hMgaUZWH1xiGGWeGiFkk/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/15WpFHn5Ur361hMgaUZWH1xiGGWeGiFkk/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3063.jpg</thumbnail>  
+<info>Un protagonista anónimo encuentra un día un diario en un hospital que pertenece a su compañera de clase Sakura Yamauchi. En él descubre que la chica padece una enfermedad terminal en el páncreas y que le quedan pocos meses de vida. Sakura explica que el protagonista es la única persona ajena a su familia que conoce su condición y este le promete guardar su secreto. A pesar de que sus personalidades son totalmente opuestas, el protagonista decide pasar junto a Sakura sus últimos meses de vida.</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Nanatsu no Taizai Movie: Tenkuu no Torawarebito (2018)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1q_dc3hpm3NBPmrGCHhrdwNXX5kPqijcm/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1q_dc3hpm3NBPmrGCHhrdwNXX5kPqijcm/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3065.jpg</thumbnail>      
+<info>Los Siete Pecados Capitales viajan a una remota isla en busca del ingrediente conocido como "pez cielo". Meliodas y Hawk acaban en el "Palacio del Cielo", el cual existe más allá de las nubes y está habitado por seres alados. A su llegada, Meliodas es confundido con un chico que cometió un crimen y acaba en prisión. Mientras, sus habitantes preparan una ceremonia para defenderse de una bestia que despierta cada 3.000 años. No obstante, los Seis Caballeros de Negro, un ejército del clan demoníaco, destruye el sello de la bestia y amenaza las vidas de los habitantes del Palacio. Meliodas y sus aliados se enfrentarán a estos caballeros en el campo de batalla.</info>   
+<item>
+ 
+<item>
+<title>[COLOR white][B]Shiki oriori (2018)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1w8MxAqTPZTDojklZKI6eoD45Z9WNi4R6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1w8MxAqTPZTDojklZKI6eoD45Z9WNi4R6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3007.jpg</thumbnail>    
+<info>Recuerdos en un bol de fideos calientes. Una belleza, el paso del tiempo y un rayo de luz en el camino. Un primer amor agridulce. Tres relatos en tres ciudades chinas.</info>     
+<item>
+ 
+<item>
+<title>[COLOR white][B]Bungou Stray Dogs: Dead Apple (2018)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1OiFSEme8ZOOuELZ6PJZpsgOcEE8CKvS_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1OiFSEme8ZOOuELZ6PJZpsgOcEE8CKvS_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/3011.jpg</thumbnail>      
+<info>Los dotados en todo el mundo se están suicidando uno tras otro y justo antes de quitarse sus propias vidas, una extraña niebla aparece para ser testigo de estos actos. Es por eso, que, a petición de Ango Sakaguchi, la Agencia de Detectives Armada se dirige a investigar a Tatsuhiko Shibusawa, un talentoso que se hace llamar “coleccionista”.</info>   
+<item>
+ 
+<item>
+<title>[COLOR white][B]Fate/kaleid liner Prisma Illya Movie: Sekka no Chikai (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1L4hBL72mv-6OTxUCQuyOGeuIjmHTXTU5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1L4hBL72mv-6OTxUCQuyOGeuIjmHTXTU5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2955.jpg</thumbnail>  
+<info>La historia original se desarrolla en un universo alternativo de Fate/Stay Night, una chica joven de dinero, vive con dos criadas y su medio hermano, Shiro Emiya. Las cosas se complican cuando Rin Tohsaka y Luviagelita Edelfelt llegan a su vida. Fue entonces cuando Illya se encuentra con una varita mágica que le permite convertirse en una Mahou Shojo (Chica Mágica). Su misión ahora; Recoger misteriosas cartas esparcidas en todo Japón por ordenes de Zelretch.</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka? (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1QpY1Bt0QX4HGEyfLBGn9dKxCT7cAq-HT/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1QpY1Bt0QX4HGEyfLBGn9dKxCT7cAq-HT/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2957.jpg</thumbnail> 
+<info>Es verano y el festival de fuegos artificiales se acerca. Nazuka Oikawa pronto se trasladará a otro instituto como consecuencia del nuevo matrimonio de su madre. La joven querrá huir del incierto destino que la espera y decide convencer a Norimichi Shimada para que se escape con ella. Sin embargo, su amigo por miedo a las represalias no acepta su propuesta. Arrepentido de su decisión, Norimichi lanzará una misteriosa bola al mar que le hará regresar al día y momento en el que Nazuna le pide que se fugue con ella. ¿Cuáles serán las consecuencias de este mágico acontecimiento, en un día que se repite una y otra vez? </info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]No Game No Life: Zero (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1AmONGYyTQxql9gbzB_T74m8BjDFMnZF_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1AmONGYyTQxql9gbzB_T74m8BjDFMnZF_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2903.jpg</thumbnail>  
+<info>No Game No Life narra las aventuras de Sora y Shiro, unos “hermanos” bastante peculiares, quienes se sumergen en un mundo llamado Disboard y que está plagado de referencias a videojuegos y juegos en general. Pero No Game No Life: Zero nos contará eventos previos a nuestros protagonistas, los cuales fueron “borrados” de la memoria colectiva, interpretando así a personajes que vivieron en Disboard hace seis mil años.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Pokemon: Kimi ni Kimeta! (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iZhlKVn7Jla79TsSnU8yEpjqYxdnjTao/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iZhlKVn7Jla79TsSnU8yEpjqYxdnjTao/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2853.jpg</thumbnail>  
+<info>"Ash, un chico de Pueblo Paleta, se queda dormido la mañana de su décimo cumpleaños, la edad en la que ya se le está permitido ser Entrenador Pokémon. Ash está deseando conocer pokémon que nunca ha visto y explorar el mundo pero, por quedarse dormido, el único pokémon que queda para que le acompañe en sus viajes es un Pikachu. Los Pikachu son conocidos por no apegarse a los humanos pero, conforme se enfrentan a adversidades, los dos van entablando una amistad. Cuando ven un Ho-Oh sobrevolarles, se prometen que lo buscarán y tocarán una de sus alas de arcoíris. Además, en su viaje se encontrarán con dos entrenadores más, Makoto y Soji, que se unirán a ellos en su camino. El grupo será seguido por Marshadow, un misterioso Pokémon que les revela que aquellos guiados por el ala de arcoíris conocerán a Ho-Oh y se convertirán en los Héroes del Arcoíris. En su aventura en busca del Ho-Oh hacia el Monte Tensei se encontrarán con un adversario que les intentará impedir llegar a su destino. ¿Lograrán encontrar a Ho-Oh?".</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1KfgTiZwr4MhuM3D3-bMkrTYI3UZJNEzz/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1KfgTiZwr4MhuM3D3-bMkrTYI3UZJNEzz/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2902.jpg</thumbnail> 
+<info>Las estaciones pasan y la primavera está muy cerca. El hermano “irregular” o poco talentoso y su brillante y hermosa hermana están por terminar el primer año de preparatoria en la Primer Escuela de Magia. Tatsuya, Miyuki y compañía deciden tomar un descanso aprovechando las vacaciones de primavera en una villa en isla Ogasawara. Todo es diversión hasta que una misteriosa chica llamada Kokoa aparece frente a ellos. Ella es una fugitiva de la Base Naval con un solo deseo... ¿Cuál es el deseo de la misteriosa chica? ¿Qué aventuras les esperan a Tatsuya y compañía?</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Fairy Tail Movie 2: Dragon Cry (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hzBOJjX7Nd0UqiUFSVKcHyM3K_zXWsOs/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hzBOJjX7Nd0UqiUFSVKcHyM3K_zXWsOs/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2852.jpg</thumbnail>  
+<info>Dragon Cry, un poderoso artefacto mágico capaz de destruir al mundo ha sido robado. Zash traidor al Reino de Fiore lo ha entregado al Reino de Stella. Natsu y los Magos del Gemio de Fairy Tail tendrán que recuperar este místico objeto antes de que sea demasiado tarde ¿Qué peligros los esperan? </info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Kuroko no Basket: Last Game (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1EkOUwwLDYeTI3WGhZGV6_hrrgpKTrI63/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1EkOUwwLDYeTI3WGhZGV6_hrrgpKTrI63/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2801.jpg</thumbnail>  
+<info>La película es secuela de la serie de televisión, después de que Kuroko y Kagami pasan a ser estudiantes de segundo año. Un equipo americano de baloncesto callejero (“street basket”) llamado Jabberwock, viaja a Japón para jugar un partido amistoso con un equipo japonés, pero tras una apabullante derrota del equipo local, los miembros del Jabberwock se mofan del baloncesto japonés. Esto causa el enfado del padre de Riko, que decidirá reunir al equipo titular de la Generación de los Milagros más Kuroko y Kagami. El equipo se llamará Vorpal Swords, y tendrá que encargarse de realizar un partido de revancha contra Jabberwock.</info>       
+<item>
+ 
+<item>
+<title>[COLOR white][B]Sword Art Online Movie: Ordinal Scale (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1UEJv4qLsTU3OOaz1utAB2grLVJguDYV6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1UEJv4qLsTU3OOaz1utAB2grLVJguDYV6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2734.jpg</thumbnail> 
+<info>La película tiene lugar tras los hechos acontecidos en la segunda temporada animada. Kirito, Asuna y sus amigos empiezan a jugar a un nuevo juego conocido como OS (Ordinal Scale) que, a diferencia de los juegos anteriores, utiliza un sistema de realidad aumentada llamado Augma. En este juego, los jugadores se clasifican de acuerdo a sus rangos por lo que los jugadores con rangos inferiores tienen grandes desventajas. Sin embargo, Kirito y sus amigos descubren que algo va mal cuando se encuentran con monstruos de Aincrad.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Kizumonogatari III: Reiketsu-hen (2017)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1vCFGUiTBBtwmtGjfLjxQ5s6XKe5zP45U/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1vCFGUiTBBtwmtGjfLjxQ5s6XKe5zP45U/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2789.jpg</thumbnail>  
+<info>La historia cuenta los sucesos que llevaron a Araragi a su encuentro con Shinobu y con Hanekawa y a acabar convertido en vampiro.</info>       
+<item>
+
+ 
+<item>
+<title>[COLOR white][B]Fate/Grand Order: First Order (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/122pSk7vCCPbjdKXoUUSUotUtXndMNivr/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/122pSk7vCCPbjdKXoUUSUotUtXndMNivr/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2639.jpg</thumbnail> 
+<info>Estamos en el año 2015 CE, donde la Organización de Seguridad Chaldea se ha fundado para preservar la existencia de la historia humana. Observaban un mundo que la traumaturgia no podía controlar, y que la ciencia no podía medir por completo, para así evitar la extinción segura de la humanidad. Pero en el futuro visto por Chaldea, la humanidad se extingue sin remedio en 2017. La causa parece estar en Fuyuki, un pequeño pueblo de Japón, y concretamente en el año 2004. Allí aparece una región no observable que no había existido jamás antes de aparecer. Chaldea supone que Fuyuki es la razón por la que la humanidad está condenada, así que envía a explorar, investigar y destruir el Santo Grial si es necesario a la Gran Order.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Suki ni Naru Sono Shunkan wo (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1kEOj_fd6chuZ6WeyQLueM4Sft-tF0Dvn/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1kEOj_fd6chuZ6WeyQLueM4Sft-tF0Dvn/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2743.jpg</thumbnail>  
+<info>Cuando Hina-chan se enamora de Koyuki Ayase en la escuela, su falta de valor hace que él se gradúe y vaya a preparatoria sin saber sus sentimientos. Pero cuando llega el momento de escoger, Hina decide que irá a la preparatoria de su antiguo senpai para declararle su amor.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Accel World: Infinite Burst (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hB7CMHa_42sPzPK3TMmsCqSXqTvuZcKX/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hB7CMHa_42sPzPK3TMmsCqSXqTvuZcKX/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2537.jpg</thumbnail> 
+<info>Un joven sin mucha autoestima llamado Haruyuki recibe de Kuroyukihime, una hermosa senpai, una aplicación para su NeuroLink llamada Brain Burst, que le permite, al ejecutarla, "acelerar"; sus procesos de pensamiento. Sin embargo, el Brain Burst es además un juego de peleas multiplayer, donde otros poseedores del programa luchan entre sí para obtener Burst Points, necesarios para poder acelerar.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]One Piece Film: Gold (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/16m4sKAkS0PgMy-FvnAELUKVAnirIyB8O/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/16m4sKAkS0PgMy-FvnAELUKVAnirIyB8O/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2632.jpg</thumbnail>  
+<info>La película narra la aventura de los Mugiwara en Gran Tesoro, la ciudad de entretenimiento más grande del mundo y que está bajo el gobierno de Gildo Tesoro, también conocido como "Rey del Casino". La riqueza de Gildo representa el 20 % de todo el dinero del mundo, lo que le convierte en una persona muy influyente y con ciertos privilegios que son pasados por alto por el Gobierno Mundial, quienes reconocen su ciudad como independiente.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Kingsglaive: Final Fantasy XV (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Vfx_yv8Biiufn_nFhVmDFNOwWNqSaPmM/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Vfx_yv8Biiufn_nFhVmDFNOwWNqSaPmM/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2629.jpg</thumbnail> 
+<info>Final Fantasy XV Kingsglaive narra la historia paralela a los acontecimientos que inician la próxima entrega de la popular serie de rol de Square-Enix sobre la caída del Rey Regis. Centrada en Nyx Ulric, uno de los miembros del grupo de soldados de élite Kingsglaive, los eventos de la película tienen lugar durante la ausencia del príncipe Noctis, cuando las fuerzas de la beligerante Niflheim atacan la ciudad de Insomnia buscando controlar el Cristal del reino de Lucis.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Garo Movie: Divine Flame (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1EoOdxp1zJt4jB83RS4I8K47gVUnqye5h/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1EoOdxp1zJt4jB83RS4I8K47gVUnqye5h/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2638.jpg</thumbnail>  
+<info>Esta película es una secuela de la primera serie de Garo the Animation, Honou no Kokuin, y está situada cronológicamente 4 años tras los sucesos de la misma.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Phantom of the Kill: Zero kara no Hangyaku (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1QFudwGmqGBTE-ZGs22aMPwOcKzFtxrjw/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1QFudwGmqGBTE-ZGs22aMPwOcKzFtxrjw/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2618.jpg</thumbnail> 
+<info>Este filme es parte de una gran campaña publicitaria llamada “Project Zero”, que también incluirá próximamente una experiencia de realidad virtual, una novela ligera el 26 de diciembre escrita por Takaaki Kaima e ilustrada por Mai.E, una figura de un personaje para este verano, un álbum con la banda sonora para el 24 de diciembre, y un libro de arte.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Shin Gekijouban Initial D: Legend 3 - Mugen (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iz7h5Ksl_2JllMWdGmdbSo8FBIuC6Xio/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iz7h5Ksl_2JllMWdGmdbSo8FBIuC6Xio/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2616.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]King of Prism by Pretty Rhythm (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1DBtf7tsYQKB5RBOOOnY9mxb2hprVu4ti/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1DBtf7tsYQKB5RBOOOnY9mxb2hprVu4ti/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2525.jpg</thumbnail> 
+<info>Franquicia audiovisual de Takara Tomy que ha pasado de los arcades al mundo de la animación. Las protagonistas suelen ser aspirantes a idols que compiten en los “Prism Show”, una competición que combina patinaje, baile, canciones y moda.</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]Kizumonogatari I: Tekketsu-hen (2016)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ZLVJCyCxkn7nZkNm272TNtDobLphguZk/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ZLVJCyCxkn7nZkNm272TNtDobLphguZk/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2533.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Shisha no Teikoku (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1KFCM2CDriQ63G_Q8Vd-W075r_sJAUdsc/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1KFCM2CDriQ63G_Q8Vd-W075r_sJAUdsc/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2465.jpg</thumbnail>  
+<info>En la Europa del siglo 19, John Watson es explorado por el gobierno para convertirse en un agente secreto. Sin embargo, Watson vive en un mundo donde “Frankenstein”, cadáveres humanos que son re-utilizados con un alma falsa con el fin de utilizarlos como mano de obra, se utilizan para mejorar el desarrollo industrial.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Aoki Hagane no Arpeggio: Ars Nova Cadenza (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Ys8VesF3qSKimC5ZlE1yi92Mx7YDPwg-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Ys8VesF3qSKimC5ZlE1yi92Mx7YDPwg-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2464.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Date A Live Movie: Mayuri Judgment (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1VsMtvkqWF56VDmFbjNNc6DtmCA482C8S/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1VsMtvkqWF56VDmFbjNNc6DtmCA482C8S/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2413.jpg</thumbnail>  
+<info>Película de la franquicia Date A Live, anunciada al final de Date a Live II. El guión de la película no cubre ninguna de las novelas, pero está supervisado por el autor original.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Ghost in the Shell (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/19yhZyolrXI3MfSFqKxIiMxExvRNHAsEw/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/19yhZyolrXI3MfSFqKxIiMxExvRNHAsEw/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2302.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Shin Gekijouban Initial D: Legend 2 - Tousou (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hHiUSU_lyfGniLSmY1O_dHv6N9j7YFki/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hHiUSU_lyfGniLSmY1O_dHv6N9j7YFki/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2334.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Dragon Ball Z Pelicula 15: Fukkatsu no F (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1O2zrzD9vuE48U64n6tmxiA2Btd_KMPXB/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1O2zrzD9vuE48U64n6tmxiA2Btd_KMPXB/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2073.jpg</thumbnail>  
+<info>La tierra está viviendo una época de paz por muchos años, Goku y sus amigos se encuentran pasando una vida tranquila, sin embargo la paz no será duradera y es que desde el espacio exterior un antiguo enemigo volverá a hacer su aparición. Y es que Freezer ha conseguido volver a la vida y su mayor deseo es vengarse de Goku quien no sólo le dio una paliza sino que también acabó con su orgullo. Freezer no regresará solo a la tierra sino que una serie de soldados muy poderosos harán su aparición para ayudar a Freezer a cumplir sus planes…</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Detective Conan Movie 19: The Hellfire Sunflowers (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1c1gabtFq7vD8D0hGw_Rb10-SzK3hBlf7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1c1gabtFq7vD8D0hGw_Rb10-SzK3hBlf7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2293.jpg</thumbnail>  
+<info>Los más importantes inversores y multimillonarios del mundo se reúnen en Nueva York para una gran subasta. Se trata de la famosa obra de Van Gogh "Los Girasoles" la cual se daba por desaparecida en Japón. Jirokichi Suzuki adquiere la obra y su objetivo será coleccionar las 7 pinturas de "Los Girasoles" que están dispersas por el mundo. Con motivo de estas adquisiciones, Jirokichi presenta un nuevo sistema de seguridad que implantará en el museo japonés "Lake Rock". La noticia se está transmitiendo en todo el mundo y Conan, Ran y los demás están siguiéndola en directo desde Japón. El día de la presentación, hace su aparición Kaito Kid y anuncia que robará la obra, antes de desaparecer. ¡¿Por qué Kid, que solo roba grandes joyas, está interesado en la pintura?! ¡Se abre el telón de un misterio artístico lleno de mentiras y verdades que involucran un valioso tesoro!</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Psycho-Pass Movie (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1-LpavBP0AQ7PMtN6mwAGC16dRfzqa4gq/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1-LpavBP0AQ7PMtN6mwAGC16dRfzqa4gq/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2150.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Aikatsu! Movie (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1sfxfC_j-pK_AMDwRX3fpU1skNcwp1k3A/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1sfxfC_j-pK_AMDwRX3fpU1skNcwp1k3A/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/2121.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Naruto: Shippuuden Movie 7 - The Last (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1jJXjcwOOkxx6GQxYlBKikr76Dtge-Ah2/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1jJXjcwOOkxx6GQxYlBKikr76Dtge-Ah2/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1809.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Shingeki no Kyojin Movie 1: Guren no Yumiya (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/11mBvrRIojlJnIekVl86bSc7cPG8fjBnp/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/11mBvrRIojlJnIekVl86bSc7cPG8fjBnp/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1938.jpg</thumbnail>  
+<info></info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Rakuen Tsuihou: Expelled From Paradise (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1TMB_3vqm8vjKPhK2wYh4RA9zIMJnILlA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1TMB_3vqm8vjKPhK2wYh4RA9zIMJnILlA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1773.jpg</thumbnail>  
+<info>La Tierra se ha convertido en una ruina llamada Nano Hazard?y la mayoría de los humanos han abandonado la esperanza en el planeta y han decidido vivir como datos en un mundo digital llamado DIVA. Es el año 2400 y DIVA sufre un ataque de ciberterrorismo desde la Tierra por parte de un hacker llamado Frontier Setter. Es entonces cuando la agente de policía Angela Balzac, una humana en un cuerpo sintético, tendrá que descender a la devastada Tierra para investigar el suceso. Así comenzará el viaje de ambos para desenmascarar la verdad del mundo y el motivo del hackeo.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Shin Gekijouban Initial D: Legend 1 - Kakusei (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1u6Ln_jZTlpllZN6lNk3lbJ3q09MB_bks/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1u6Ln_jZTlpllZN6lNk3lbJ3q09MB_bks/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1827.jpg</thumbnail>  
+<info>Primera película de una trilogía, centrada en la batalla contra los hermanos Takahashi.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Pokemon Película 17: Diancie y la Crisálida de la Destrucción (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1_Omofk3zIuAxaABt-j01rGbQg8t0Fqvx/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1_Omofk3zIuAxaABt-j01rGbQg8t0Fqvx/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1815.jpg</thumbnail>  
+<info>La historia tiene lugar en el país del Mineral de Diamante donde Diancie es la princesa. Esta región se encuentra en las profundidades donde los Carbink viven en paz. La energía para subsistir emana del Diamante Sagrado, el cual únicamente puede ser creado por Diancie. Sin embargo, la princesa regente carece del poder para crear un diamante de tal calibre, y el actual se está quedando sin poder, lo que supondría el final de todos los habitantes del reino. Para intentar evitar esto, Diancie se unirá a Ash y Pikachu para encontrar al Pokémon legendario Xerneas, que posee el poder sagrado de la creación, pero, por el camino se encuentran con la crisálida donde se encuentra Yveltal, el Pokémon Destrucción, que arrasó Kalos hace mucho tiempo.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Giovanni no Shima (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/186p7qVM2XGkNnbTNz3I6BP1xmx5ueyKQ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/186p7qVM2XGkNnbTNz3I6BP1xmx5ueyKQ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1832.jpg</thumbnail>  
+<info>A consecuencia del conflicto bélico más devastador que la humanidad experimentó, la pequeña isla de Shitokan, Japón, fue anexada como parte del territorio de Óblast de Sajalín, Rusia. Fue en aquella remota isla, en que la amistad entre niños de dos países completamente diferentes comenzó tímidamente a nacer, superando la barrera idiomática y los embates de la historia. El día 15 de agosto, nos dijeron que se perdió la guerra. Para entonces, no sabíamos realmente las consecuencias de ello. Pero un día, todo cambió. Muchos soldados que vestían uniformes que jamás antes habíamos visto arribaron a la isla. Ese el día en que conocí a Tanya.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Tiger & Bunny Movie 2: The Rising (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1zj9y5AKLhiA9-p9G8WNX4FRYeKgZw2ha/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1zj9y5AKLhiA9-p9G8WNX4FRYeKgZw2ha/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1492.jpg</thumbnail>  
+<info>La película tratará sobre un misterio que ocurre durante el festival del "Día de la Justicia" que celebra la legendaria diosa Sternbild.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]The iDOLM@STER Movie: Kagayaki no Mukougawa e! (2014)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1e9oP6vuccLWQ6o0efn-cZ7JJiuSYD6Yt/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1e9oP6vuccLWQ6o0efn-cZ7JJiuSYD6Yt/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1776.jpg</thumbnail>  
+<info>Las idols de 765Pro continúan su viaje sin fin… hacia un nuevo escenario, hacia un futuro brillante y deslumbrante Las chicas y su productor han superado muchos problemas, y se han enfrentado cara a cara con todo tipo de dificultades. Ha llegado el momento de que las chicas afiancen de nuevo su amistad, y que con mucha disciplina, den otro paso hacia su estelar futuro. Os presentamos una producción totalmente nueva: THE IDOLM@STER.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Neppuu Kairiku Bushi Road[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/109VILR8sKROGUa8IgbMRHQGT-BqP6Ngd/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/109VILR8sKROGUa8IgbMRHQGT-BqP6Ngd/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1233.jpg</thumbnail>  
+<info>La historia empieza en un tiempo en donde la desesperación se apodera del mundo después de ser destrozada por un veneno llamado “shinobi” que llego a la tierra por medio de un asteroide. La gente escapa a un lugar llamado “Kaikiru” lugar que se encontraba en el fondo del océano. Aquí la gente trata de protegerse en contra de los efectos del veneno. En este mundo, hubo una luz de esperanza “El arma sagrada Giga road” y el legendario guerrero “Yagyuu” son requeridos para contrarrestar los efectos del veneno. Para salvar al mundo , Ame una princesa de una nación caída, se levanta para cambiar a el mundo.</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Hunter x Hunter: The Last Mission[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1lxp-3bFt_zvr6nX3t74gUy004JVg8JVH/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1lxp-3bFt_zvr6nX3t74gUy004JVg8JVH/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1474.jpg</thumbnail>  
+<info>Los Cazadores más poderosos que ha habido en la Asociación de Cazadores se han separado en “luz” y “oscuridad”, siguiendo cada uno su propio camino. La oscuridad está empezando a moverse para masacrar a todos los Cazadores, ¡¿qué hará Gon cuando se revelen los crímenes de Netero y el resto de la asociación?! </info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Bayonetta: Bloody Fate[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1eWeVsll-2EWbOA5lJSTZcnf2xPvwtO6l/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1eWeVsll-2EWbOA5lJSTZcnf2xPvwtO6l/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/1265.jpg</thumbnail>  
+<info>Hace mucho tiempo en una ciudad llamada Vigrid, los sabios (seres de la luz) y las brujas (seres de la oscuridad) vivían en armonía. El mundo de los hombres, el infierno y el paraíso estaban en orden, hasta que se desató odio entre estos clanes, provocando una guerra sangrienta que terminó con la existencia de las brujas en Europa durante la Edad Media. Todas murieron, excepto Bayonetta, que despertó después de 500 años de sueño y se encuentra en una zona desconocida sin recuerdos de quién o qué es</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]Tekken: Blood Vengeance[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Wpcjrt54QrJqrgl_Nav2-XJ6FiwNqk4w/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Wpcjrt54QrJqrgl_Nav2-XJ6FiwNqk4w/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/687.jpg</thumbnail>  
+<info>Nos narra la historia de Xiaoyu Ling, una experta en artes marciales y estudiante de instituto a quien la Corporación G ha ordenado infiltrarse en una escuela internacional de Kioto para obtener información sobre el misterioso estudiante Shin Kamiya. Antes de que pueda hacer grandes progresos en su investigación, un asaltante desconocido secuestra a Shin. Xiaoyu va a su rescate y se adentra cada vez más en la historia de Shin, llegando a descubrir el temible corazón del Mishima Zaibatsu. La conspiración, teñida de sangre, de Jin Kazama, Kazuya Mishima y el difunto Heihachi Mishima. Película de animación digital realizada con los modelos de la saga de videojuegos "Tekken")</info>       
+<item>
+
+<item>
+<title>[COLOR white][B]One Piece 3D Mugiwara Chase[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1crvE9h-W3Psi6hBzNtvkJ7rN4OfGY_Gi/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1crvE9h-W3Psi6hBzNtvkJ7rN4OfGY_Gi/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://animeflv.net/uploads/animes/covers/671.jpg</thumbnail>  
+<info>Divertida historia en la que Luffy y el resto de los mugiwaras deberán recuperar el sombrero de Luffy de un "pájaro" que lo da todo por una gran amistad.
+</info>       
+<item>

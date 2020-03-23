@@ -1,0 +1,1706 @@
+<item>
+    <title>[B][COLOR red]ORGINALES NETFLIX[/COLOR][/B][COLOR lime][I]  +9 Peliculas añadidas[/I][/COLOR]</title>
+    <link>nolink</link>
+    <externallink>https://raw.githubusercontent.com/iberikakod/peliculas-anime/master/peliculas%20Netflix</externallink>
+<thumbnail>https://d500.epimg.net/cincodias/imagenes/2019/10/22/smarttv/1571728517_406523_1571730646_noticia_normal.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B]>Contagio[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1_1AukMQjC0-uRT22Ku50_wPsZWKWTeEq/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1_1AukMQjC0-uRT22Ku50_wPsZWKWTeEq/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El contagio sigue el rápido progreso de un virus letal en el aire que mata en cuestión de días. A medida que crece la epidemia, la comunidad médica mundial se apresura a encontrar una cura y controlar el pánico que se propaga más rápido que el virus mismo. Al mismo tiempo, la gente común lucha por sobrevivir en una sociedad que se desmorona.</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/1/9/8/3/2-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]2036 Origin Unknown Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Eq2lV3k1FK8C1CFLm-Bx0Q3cN0u2JvIp/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Eq2lV3k1FK8C1CFLm-Bx0Q3cN0u2JvIp/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/7/8/6/9/4-medium.jpg?v=1</thumbnail>    
+<info>Después de que la primera misión tripulada a Marte termina en un accidente mortal, el controlador de la misión Mackenzie 'Mack' Wilson ayuda a un sistema de inteligencia artificial, A.R.T.I. Su investigación descubre un misterioso objeto debajo de la superficie de Marte que podría cambiar el futuro de nuestro planeta tal como lo conocemos.
+</info>  
+<item>
+ 
+<item>
+<title>[COLOR white][B]A Fall From Grace[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1fc0A3n41FpI3IBoBoTbygEZp1yZEvyd8/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1fc0A3n41FpI3IBoBoTbygEZp1yZEvyd8/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/2/3/7/2/9/4-medium.jpg?v=0</thumbnail>      
+<info>Cuando una mujer respetuosa de la ley es acusada por asesinar a su esposo, su abogado pronto se da cuenta de que puede haber una conspiración más grande en el trabajo.
+</info>  
+<item>
+ 
+<item>
+<title>[COLOR white][B]A Ghost Story[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/11hm4faNoSeoP6HUzmD2GOtYLR9wsS7hK/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/11hm4faNoSeoP6HUzmD2GOtYLR9wsS7hK/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/7/1/0/2/4-medium.jpg?v=3</thumbnail>
+<info>Recientemente fallecido, un fantasma de sábanas blancas regresa a su hogar suburbano para consolar a su esposa despojada, solo para descubrir que en su estado espectral se ha despegado a tiempo, obligado a mirar pasivamente mientras la vida que conoce y la mujer que ama se deslizan lentamente. lejos.
+</info>        
+<item>
+ 
+<item>
+<title>[COLOR white][B]A-X-L Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1zrPe4pJwdQochaTjXjr-Rfz_j0WL2x5i/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1zrPe4pJwdQochaTjXjr-Rfz_j0WL2x5i/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La vida de un adolescente se ve alterada para siempre por un encuentro casual con tecnología militar de vanguardia.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/2/0/9/3-medium.jpg?v=4</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Ad Astra[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1dwVSlz8IyqyTREE0pj7LTvVL1ph7PvA4/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1dwVSlz8IyqyTREE0pj7LTvVL1ph7PvA4/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un astronauta viaja a los bordes exteriores del sistema solar para encontrar a su padre y desentrañar un misterio que amenaza la supervivencia de la Tierra. Al hacerlo, descubre secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/5/5/8/5-medium.jpg?v=8</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Airplane Mode[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/150vz9VUOgJofd5zGVx1iApvgQkQ0ElHO/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/150vz9VUOgJofd5zGVx1iApvgQkQ0ElHO/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando Ana, una influyente, choca su auto mientras habla por teléfono, la envían a la granja de su abuelo gruñón y la obligan a una desintoxicación digital.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/2/3/7/3/3/2-medium.jpg?v=0</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Aladdin[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ypEoM_6ZcuM9FVThjw0wEPteZ8IlHeh3/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ypEoM_6ZcuM9FVThjw0wEPteZ8IlHeh3/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un simpático erizo callejero llamado Aladdin se embarca en una aventura mágica después de encontrar una lámpara que libera a un genio que hace bromas mientras que un Gran Visir hambriento de poder compite por la misma lámpara que tiene el poder de hacer realidad sus deseos más profundos.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/9/0/0/6-medium.jpg?v=5</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Anastasia vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/open?id=1xtNMFr1PJteQ32upkH8FX-0KhCClsIjU'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/open?id=1xtNMFr1PJteQ32upkH8FX-0KhCClsIjU'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Anastasia Romanov escapa por un portal cuando su familia es amenazada por Vladimir Lenin, y se encuentra en el año 1988, se hizo amiga de una joven estadounidense.
+</info>  
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/2/3/7/4/9/6-medium.jpg?v=0</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Angel Has Fallen[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hHSGENSSAS5sLoJCfxSrIaarimyCdeZM/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hHSGENSSAS5sLoJCfxSrIaarimyCdeZM/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de un ataque traicionero, el agente del Servicio Secreto Mike Banning está acusado de intentar asesinar al presidente Trumbull. Perseguido por sus propios colegas y el FBI, Banning comienza una carrera contra reloj para limpiar su nombre.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/9/3/2/9-medium.jpg?v=3</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Ant-Man[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Zrmxy-sbf0oY6gTQBi6bFEg2iFCingY2/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Zrmxy-sbf0oY6gTQBi6bFEg2iFCingY2/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Armado con la asombrosa capacidad de reducir la escala pero aumentar la fuerza, el maestro ladrón Scott Lang debe abrazar a su héroe interior y ayudar a su mentor, el doctor Hank Pym, a proteger el secreto detrás de su espectacular traje Ant-Man de una nueva generación de amenazas altísimas. . Contra obstáculos aparentemente insuperables, Pym y Lang deben planear y realizar un atraco que salvará al mundo.</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/5/7/0/9/8-medium.jpg?v=0</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Assassination Nation[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1lFsuozUJFW5l5i_7oPdf0jvDh908ciou/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1lFsuozUJFW5l5i_7oPdf0jvDh908ciou/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La estudiante de último año de secundaria, Lily, y su grupo de amigos viven en una nube de textos, publicaciones, selfies y chats como el resto del mundo. Entonces, cuando un hacker anónimo comienza a publicar detalles de la vida privada de todos en su pequeña ciudad, el resultado es una locura absoluta que deja a Lily y sus amigos cuestionándose si vivirán toda la noche.
+</info>  
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/7/5/5/3/8-medium.jpg?v=3</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Avengers Age of Ultron[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1oBHx7mrIkgkjd6P2PSDl--s-TsKF0ASK/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1oBHx7mrIkgkjd6P2PSDl--s-TsKF0ASK/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>
+When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/4/3/2/9/4-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Black Panther[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1uW1dUimbIn5js45GT-L-s9XCvnRzKr4e/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1uW1dUimbIn5js45GT-L-s9XCvnRzKr4e/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El Rey T'Challa regresa a casa desde América a la recóndita y tecnológicamente avanzada nación africana de Wakanda para servir como el nuevo líder de su país. Sin embargo, T'Challa pronto descubre que es desafiado por el trono por facciones dentro y fuera de su propio país. Usando poderes reservados a los reyes de Wakandan, T'Challa asume que la repisa de la Pantera Negra se une con su novia Nakia, la reina madre, su hermana princesa-hija, miembros de Dora Milaje (las 'fuerzas especiales' de Wakandan) y un agente secreto estadounidense , para evitar que Wakanda sea arrastrado a una guerra mundial.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/5/8/9/2/7-medium.jpg?v=6</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Captain Marvel[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1QfczDfdpnAvVthJGp0GQR2sxaYCy6Cq5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1QfczDfdpnAvVthJGp0GQR2sxaYCy6Cq5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo cuando la Tierra se ve atrapada en medio de una guerra galáctica entre dos razas alienígenas. Ambientada en la década de 1990, Captain Marvel es una aventura completamente nueva de un período nunca antes visto en la historia del Universo Cinematográfico de Marvel.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/5/8/3/0/5-medium.jpg?v=11</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Captive State Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1q2C32yuRh4Hcv2R2uroDjK9NpbRRxNe4/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1q2C32yuRh4Hcv2R2uroDjK9NpbRRxNe4/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Casi una década después de la ocupación por una fuerza extraterrestre, se exploran las vidas de un vecindario de Chicago en ambos lados del conflicto.
+</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/7/3/6/5/0-medium.jpg?v=5</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Charlie's Angels[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1NQJVZVW5dxu8GoYqS0JWr1houkL3u9pJ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1NQJVZVW5dxu8GoYqS0JWr1houkL3u9pJ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando un ingeniero de sistemas denuncia una tecnología peligrosa, los Ángeles de Charlie de todo el mundo son llamados a la acción, arriesgando sus vidas para proteger a la sociedad.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/8/2/0/8/3-medium.jpg?v=9</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Cindy la Regia Lat[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1p6QqLZcqoYK8UHEB5RhsJo6eWCMRPcsY/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1p6QqLZcqoYK8UHEB5RhsJo6eWCMRPcsY/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando Cindy decide que no quiere casarse con su novio, corre a la Ciudad de México, donde nuevas amistades y caminos inesperados le enseñan que hay muchas más posibilidades en su vida y su talento de lo que imagina.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/2/3/7/4/3/7-medium.jpg?v=0</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]City of Lies[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1WsbugbfloNKtSAkNwK8beT-ergd5XjB8/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1WsbugbfloNKtSAkNwK8beT-ergd5XjB8/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El detective del Departamento de Policía de Los Ángeles, Russell Poole, ha pasado años tratando de resolver su caso más importante: los asesinatos de The Notorious B.I.G. y Tupac Shakur, pero después de dos décadas, la investigación sigue abierta. Jack Jackson, un reportero desesperado por salvar su reputación y carrera, está decidido a descubrir por qué. En busca de la verdad, los dos se unen y desentrañan una red creciente de corrupción institucional y mentiras.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/7/6/1/4/3-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Come to Daddy[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1nA2YGRk3ueg9IDzENoQXoSANLhA36Sj0/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1nA2YGRk3ueg9IDzENoQXoSANLhA36Sj0/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de recibir una carta críptica de su padre separado, Norval viaja a la casa frente al mar de su padre para lo que espera sea una experiencia positiva. Si tan solo hubiera conocido la oscura verdad sobre su viejo de antemano.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/1/8/8/3/7/9-medium.jpg?v=2</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Dolittle[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1gPhjegnKspiz9y70h5kvNH6ZMtJmu9Mq/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1gPhjegnKspiz9y70h5kvNH6ZMtJmu9Mq/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de perder a su esposa siete años antes, el excéntrico Dr. John Dolittle, famoso médico y veterinario de la Inglaterra de la reina Victoria, se erige detrás de los altos muros de Dolittle Manor con solo su colección de animales exóticos en compañía. Pero cuando la joven reina cae gravemente enferma, un reacio Dolittle se ve obligado a zarpar en una aventura épica a una isla mítica en busca de una cura, recuperando su ingenio y coraje mientras cruza viejos adversarios y descubre criaturas maravillosas.</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/7/7/3/2/7-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Fast & Furious Presents Hobbs & Shaw[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1pYdQ0BPidu_zsfg2nGvC9ERijN0aoTPJ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1pYdQ0BPidu_zsfg2nGvC9ERijN0aoTPJ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un spin-off de The Fate of the Furious, centrado en el agente de seguridad diplomática estadounidense de Johnson, Luke Hobbs, formando una alianza improbable con el Deckard Shaw de Statham.
+</info>  
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/7/3/9/8/9-medium.jpg?v=7</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Fighting with My Family[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1kZwHA64tqh-adqwvaX2xxi0LkjcV4vk2/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1kZwHA64tqh-adqwvaX2xxi0LkjcV4vk2/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Nacida en una familia de lucha muy unida, Paige y su hermano Zak están extasiados cuando tienen la oportunidad única de probar la WWE. Pero cuando solo Paige gana un lugar en el programa de entrenamiento competitivo, debe dejar atrás a sus seres queridos y enfrentar este nuevo mundo despiadado. El viaje de Paige la empuja a profundizar y finalmente demostrarle al mundo que lo que la hace diferente es lo que puede hacerla una estrella.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/7/4/1/7/8-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Frozen II[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/11VOID7xaK9bbN25d9stLv9gxRoQt_rlY/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/11VOID7xaK9bbN25d9stLv9gxRoQt_rlY/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Elsa, Anna, Kristoff y Olaf se adentran en el bosque para conocer la verdad sobre un antiguo misterio de su reino.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/1/6/9/4-medium.jpg?v=5</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Game of Thrones The Last Watch Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qrpvBJKOoYzbLkBW7FZ62AwzREuNFw9y/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qrpvBJKOoYzbLkBW7FZ62AwzREuNFw9y/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Documental de larga duración posterior al final sobre la realización del exitoso programa de televisión HBO.
+</info>  
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/8/4/5/0/3-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Glass[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/11zAP2Kj63yFs-c1crW0_4WKgxiHT7fqA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/11zAP2Kj63yFs-c1crW0_4WKgxiHT7fqA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En una serie de encuentros cada vez más intensos, el guardia de seguridad David Dunn usa sus habilidades sobrenaturales para rastrear a Kevin Wendell Crumb, un hombre perturbado que tiene veinticuatro personalidades. Mientras tanto, la presencia sombría de Elijah Price emerge como un orquestador que guarda secretos críticos para ambos hombres.
+</info>  
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/7/1/4/9/0-medium.jpg?v=11</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Go![/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qwphJyzzVyXj5wVRWB49wKD1kZBw50oI/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qwphJyzzVyXj5wVRWB49wKD1kZBw50oI/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info></info>  
+<thumbnail></thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Hellboy[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1C22Pm7hwrnrd8OQfU0tIDcWKvZ-z1uoF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1C22Pm7hwrnrd8OQfU0tIDcWKvZ-z1uoF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Hellboy llega a Inglaterra, donde debe derrotar a Nimue, la consorte de Merlín y la Reina de Sangre. Pero su batalla traerá el fin del mundo, un destino que intenta desesperadamente rechazar.
+</info>  
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/7/4/4/9/7-medium.jpg?v=9</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Horse Girl[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qMeLMQ2kNutEey3ye7TohjQypRs9CfeN/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qMeLMQ2kNutEey3ye7TohjQypRs9CfeN/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una mujer socialmente incómoda con afición por las artes y las manualidades, los caballos y los espectáculos sobrenaturales del crimen descubre que sus sueños cada vez más lúcidos se filtran en su vida despierta.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/2/3/7/3/1/4-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]How to Train Your Dragon[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1me_GkV4rH4i9BxJ5nTxX0YMRSLl5EfjP/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1me_GkV4rH4i9BxJ5nTxX0YMRSLl5EfjP/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando Hiccup cumple su sueño de crear una utopía pacífica de dragón, el descubrimiento de Toothless de un compañero salvaje e indomable atrae a la Furia Nocturna. Cuando el peligro aumenta en casa y se prueba el reinado de Hipo como jefe de la aldea, tanto el dragón como el jinete deben tomar decisiones imposibles para salvar a su especie.
+</info>  
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/7/0/1/7/9-medium.jpg?v=5</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Inherit the Viper Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1zxtCI6Hp-oWZxXNrthHJc3-2n8OYP8Mh/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1zxtCI6Hp-oWZxXNrthHJc3-2n8OYP8Mh/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Desde la muerte de su padre, los hermanos Riley han mantenido sus cabezas fuera del agua al tratar ilegalmente con analgésicos. Josie está manejando el negocio con un puño de hierro, cuando su hermano, el veterano de guerra Kip, está preocupado de que el negocio arriesgado los esté convirtiendo cada vez más en extraños en su pequeña comunidad. Mientras Kip quiere mantener a su hermano menor fuera de sus esfuerzos ilegales, su hermano menor ya está haciendo sus propios planes.
+</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/2/3/7/2/6/3-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Inside Man Most Wanted Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1o3QxbD_XcltRXdCii4q5jAyC9qn8Etf6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1o3QxbD_XcltRXdCii4q5jAyC9qn8Etf6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un negociador de rehenes de la policía de Nueva York se asocia con un agente federal para rescatar a docenas de turistas retenidos como rehenes durante un asedio de 10 horas en la Reserva Federal de los Estados Unidos.</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/1/8/8/2/3/9-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Iron Man 3[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1lmgPwyfs7_D_6xpwUP3xaeo0Z4Vh7rr_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1lmgPwyfs7_D_6xpwUP3xaeo0Z4Vh7rr_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando el mundo de Tony Stark es destrozado por un terrorista formidable llamado mandarín, comienza una odisea de reconstrucción y retribución.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/3/3/5/0/8-medium.jpg?v=1</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Iron Sky: The Coming Race[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1bZi-TFgr9sfo_yaXGWhEenPaoScB8iSD/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1bZi-TFgr9sfo_yaXGWhEenPaoScB8iSD/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Veinte años después de los eventos de Iron Sky, la antigua base lunar nazi se ha convertido en el último refugio de la humanidad. La Tierra fue devastada por una guerra nuclear, pero enterrada en las profundidades del páramo se encuentra un poder que podría salvar lo último de la humanidad, o destruirlo de una vez por todas. La verdad detrás de la creación de la humanidad se revelará cuando un viejo enemigo lidere a nuestros héroes en una aventura en la Tierra Hueca. Para salvar a la humanidad, deben luchar contra los Vril, una antigua raza de reptiles que cambia de forma y su ejército de dinosaurios.</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/5/8/0/0/2-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Isi & Ossi[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hUYD3-37nnUqrUSUJjasjKlDeE-34F_x/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hUYD3-37nnUqrUSUJjasjKlDeE-34F_x/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Isi y Ossi no podrían ser más diferentes: es la hija de un multimillonario de Heidelberg, él es un boxeador que lucha por la ciudad cercana de Mannheim. Pero cuando Isi conoce a Ossi, los dos se dan cuenta rápidamente de que pueden aprovecharse el uno del otro: sale con el boxeador en bancarrota para provocar a sus padres y hacer que financien una capacitación de chef tan deseada en Nueva York. Intenta estafar a la hija rica para financiar su primer combate de boxeo profesional. Sus planes pronto se convierten en un caos emocional que desafía todo lo que los dos creen saber sobre dinero, carrera y amor.</info>  
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/2/3/7/4/3/4-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Jay and Silent Bob Reboot[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1BErjprF6KE4z6vJH8BnsVIt4Nd6XfHa7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1BErjprF6KE4z6vJH8BnsVIt4Nd6XfHa7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Jay y Silent Bob se embarcan en una misión a través del país para evitar que Hollywood reinicie la película basada en sus contrapartes de cómics Bluntman y Chronic.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/8/8/6/1/3-medium.jpg?v=2</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Land of Mine[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1NQ0x1hImXG4-Sx1PAdqLNgOpEgTTJv2d/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1NQ0x1hImXG4-Sx1PAdqLNgOpEgTTJv2d/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En los días posteriores a la rendición de Alemania en mayo de 1945, un grupo de jóvenes prisioneros de guerra alemanes fueron entregados a las autoridades danesas y posteriormente enviados a la costa oeste, donde se les ordenó retirar los más de dos millones de minas que el Los alemanes se habían colocado en la arena a lo largo de la costa. Con las manos desnudas, arrastrándose en la arena, los muchachos se vieron obligados a realizar el trabajo peligroso bajo el liderazgo del sargento danés, Carl Leopold Rasmussen.</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/4/0/4/5-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Little White Lies 2[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1V4EmYRQ5Vbaa0xFMGY94eOrI7ZPhl6uE/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1V4EmYRQ5Vbaa0xFMGY94eOrI7ZPhl6uE/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El resultado de los pequeños pañuelos "Petits mouchoirs", 7 años después. La banda, que estalló, se encuentra con motivo de la sorpresa de aniversario organizada para Max.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/1/8/8/2/5/0-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Lost Girls[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1EZ6bAdrTMIyZDPleaGW6ijr5m9bICDVH/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1EZ6bAdrTMIyZDPleaGW6ijr5m9bICDVH/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando la hija de Mari Gilbert desaparece, la inacción policial impulsa su propia investigación sobre la comunidad cerrada de Long Island donde se vio por última vez a Shannan. Su búsqueda llama la atención sobre más de una docena de trabajadoras sexuales asesinadas.</info>  
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/9/0/7/2/2-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Lucid Dream[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1rbmZUrSsjIXSQCH2S2tRAHy8uUdt34pl/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1rbmZUrSsjIXSQCH2S2tRAHy8uUdt34pl/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Dae-ho, un periodista de investigación, busca rastrear el paradero de su hijo que fue secuestrado hace tres años. Con la ayuda de un detective y un amigo psiquiatra, volverá sobre su memoria del incidente mediante el uso de técnicas de sueño lúcido.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/1/8/8/6-medium.jpg?v=1</thumbnail>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Lucy in the Sky[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1LCw9-rcW6VXuh-Y2Pj4yl8RTAWz2ShC5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1LCw9-rcW6VXuh-Y2Pj4yl8RTAWz2ShC5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La astronauta Lucy Cola regresa a la Tierra después de una experiencia trascendente durante una misión al espacio, y comienza a perder contacto con la realidad en un mundo que ahora parece demasiado pequeño.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/8/3/7/8/6-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Master Z Ip Man Legacy Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1WYo3v3CsCno4zVwRe45jlSt99f3StKcB/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1WYo3v3CsCno4zVwRe45jlSt99f3StKcB/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de ser derrotado por Ip Man, Cheung Tin Chi intenta mantener un perfil bajo. Mientras se dedica a sus asuntos, se pelea con un extranjero llamado Davidson, quien es un gran jefe detrás del distrito de bares. Tin Chi pelea duro con Wing Chun y se gana el respeto.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/8/3/7/0/9-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Men in Black: International[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1osxxxe8swkSwbowPeb7XeC8xRJ2-dsU4/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1osxxxe8swkSwbowPeb7XeC8xRJ2-dsU4/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Los Hombres de Negro siempre han protegido a la Tierra de la escoria del universo. En esta nueva aventura, abordan su amenaza más grande y global hasta la fecha: un topo en la organización Men in Black.</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/8/2/4/5/0-medium.jpg?v=4</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Muse[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Gk00e2J33NcGnbYKTy4lrWTq5DVN7sY2/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Gk00e2J33NcGnbYKTy4lrWTq5DVN7sY2/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Samuel Salomon, profesor de literatura, ha estado fuera del trabajo durante casi un año después de la trágica muerte de su novia. Samuel ha estado sufriendo una pesadilla recurrente en la que una mujer es brutalmente asesinada en un extraño ritual. De repente, la misma mujer que aparece todas las noches en sus sueños es encontrada muerta exactamente en las mismas circunstancias. Samuel se cuela en la escena del crimen y allí conoce a Rachel, que también ha soñado con el asesinato. Juntos, harán todo lo posible para descubrir la identidad de la mujer misteriosa, entrando en un mundo aterrador controlado por las figuras que han inspirado a los artistas a lo largo del tiempo: las Musas.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/7/3/1/1/0-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]My Pet Dinosaur[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1AGIynk2Fq04ElIx_cdiUXN8FzaLatX7I/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1AGIynk2Fq04ElIx_cdiUXN8FzaLatX7I/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando un niño llamado Jake accidentalmente hace un nuevo amigo en un experimento que salió mal, una ciudad problemática se ve sumida en el caos. Pero con la criatura que evoluciona rápidamente todos los días, a Jake le resulta cada vez más difícil mantener en secreto a su nueva mascota. Los amigos de Jake y la nueva chica Abbie se dan cuenta de que no son los únicos interesados en este pequeño dinosaurio extraño y travieso y pronto descubren que lo único más misterioso de lo que es es quién lo está buscando.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/7/4/5/2/4-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Noelle Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1dYsJnbM_4pL2tR3GFM39azrF_dx7vWQz/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1dYsJnbM_4pL2tR3GFM39azrF_dx7vWQz/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Gira en torno a la hija de Santa que se ve obligada a hacerse cargo del negocio familiar cuando su padre decide retirarse y su hermano termina con los pies fríos antes de su primer gran vuelo de Nochebuena.</info>  
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/7/5/0/1/0-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Pirates of the Caribbean Dead Men Tell No Tales[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1mMfhbcqdZ8p0zvVWcn_WdpnhZD_1vJSf/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1mMfhbcqdZ8p0zvVWcn_WdpnhZD_1vJSf/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Empujado hacia una aventura completamente nueva, el capitán Jack Sparrow, que no tiene suerte, siente que los vientos de la mala fortuna soplan aún más fuerte cuando los marineros fantasmas mortales liderados por su antiguo enemigo, el malvado capitán Salazar, escapan del Triángulo del diablo La única esperanza de supervivencia de Jack radica en buscar al legendario Tridente de Poseidón, pero para encontrarlo, debe forjar una alianza incómoda con un astrónomo brillante y hermoso y un joven testarudo en la marina británica.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/5/7/9/3/5-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]RoboCop[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1PSvdK0QoqRKON8sP_Yr9agAt2S9xpHd1/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1PSvdK0QoqRKON8sP_Yr9agAt2S9xpHd1/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En RoboCop, el año es 2028 y el conglomerado multinacional OmniCorp está en el centro de la tecnología de robots. En el extranjero, sus aviones no tripulados han sido utilizados por los militares durante años, pero se les ha prohibido la aplicación de la ley en Estados Unidos. Ahora OmniCorp quiere llevar su controvertida tecnología al frente de la casa, y ven una oportunidad de oro para hacerlo. Cuando Alex Murphy, un esposo amoroso, padre y buen policía que hace todo lo posible para detener la ola de delincuencia y corrupción en Detroit, sufre heridas graves, OmniCorp ve la oportunidad de construir un oficial de policía en parte hombre y en parte robot. OmniCorp visualiza un RoboCop en cada ciudad y aún más miles de millones para sus accionistas, pero nunca contaron con una cosa: todavía hay un hombre dentro de la máquina.</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/4/2/9/1/0-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Savage Dog[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1pK6UlCy-68zv-jQJI3_lwnC6npdw4Zw_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1pK6UlCy-68zv-jQJI3_lwnC6npdw4Zw_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una historia ambientada en Indochina en 1959, una tierra sin ley controlada por la clase criminal: señores de la guerra vietnamitas y criminales de guerra europeos. El campo de trabajo Den-Dhin-Chan está dirigido por cuatro hombres tan peligrosos. La peor prisión de la tierra, es aquí donde un irlandés, el ex campeón boxeador Martin Tillman se ha hecho un nombre luchando en torneos, en los que delincuentes ricos juegan en eventos de alto riesgo. Cuando Tillman debe ser liberado, solo quiere regresar a casa, pero las fuerzas corruptas que dirigen la cárcel harán todo lo que esté a su alcance para mantenerlo encerrado. Cuando todo lo que Tillman aprecia es quitado en un vicioso acto de violencia, se ve obligado a confrontar a los hombres responsables y vengarse. El nacimiento de una leyenda.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/7/1/3/6/4-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Son of Batman[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1_62sSfcA9DZqN9BnlGLqb703GmyXfd7_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1_62sSfcA9DZqN9BnlGLqb703GmyXfd7_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Batman se entera de que tiene un hijo preadolescente violento y rebelde con Talia al Ghul llamado Damian Wayne, quien es criado en secreto por Ra's al Ghul y la Liga de Asesinos. Cuando Ra's al Ghul aparentemente muere después de una batalla con Deathstroke, Batman debe trabajar para evitar que su hijo perdido se vengue y lo guíe a un camino recto, además de la posibilidad de que la pareja se reconozca verdaderamente como familia.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/5/6/9/3/7-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Sonic the Hedgehog Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1rsFC3MRq_DeMzrzWtfA-kQujHwbgddI_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1rsFC3MRq_DeMzrzWtfA-kQujHwbgddI_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Basado en la franquicia global de videojuegos de gran éxito de Sega, Sonic the Hedgehog cuenta la historia del erizo más rápido del mundo mientras abraza su nuevo hogar en la Tierra. En esta comedia de aventuras y acción en vivo, Sonic y su nuevo mejor amigo se unen para defender el planeta del malvado genio Dr. Robotnik y sus planes para dominar el mundo.</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/7/6/4/0-medium.jpg?v=7</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Spenser Confidential[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/10vhRuywNOAl-A17sbWSYRHaro4Fo_QFE/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/10vhRuywNOAl-A17sbWSYRHaro4Fo_QFE/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Spenser, un ex policía mejor conocido por causar problemas que resolverlos, acaba de salir de prisión y se va de Boston para siempre. Pero primero lo obligaron a ayudar a su antiguo entrenador de boxeo y mentor Henry, con un prometedor aficionado. Ese es Hawk, un peleador de MMA impetuoso y sensato, convencido de que será un oponente más duro que Spenser. Cuando dos de los antiguos colegas de Spenser aparecen asesinados, él recluta a Hawk y a su ex novia Cissy para ayudarlo a investigar y llevar a los culpables ante la justicia.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/2/3/7/3/0/0-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Star Wars The Rise of Skywalker[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1OwSXe6UpEtLz-rhdiuH7ISzpP8MNW4JK/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1OwSXe6UpEtLz-rhdiuH7ISzpP8MNW4JK/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La Resistencia sobreviviente se enfrenta a la Primera Orden una vez más mientras continúa el viaje de Rey, Finn y Poe Dameron. Con el poder y el conocimiento de las generaciones detrás de ellos, comienza la batalla final.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/5/2/6/2-medium.jpg?v=9</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Superman Red Son Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1YANoGQJXLRQE8bNea_4yOSFw5h_hXYf1/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1YANoGQJXLRQE8bNea_4yOSFw5h_hXYf1/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Ambientada en la Guerra Fría, Red Son nos presenta a un Superman que aterrizó en la URSS durante la década de 1950 y crece para convertirse en un símbolo soviético que lucha por la preservación de la marca del comunismo de Stalin.
+</info>  
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/2/3/7/1/5/0-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Teen Spirit Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1oHoJ7kPRmZi7uC_KgRX-WiRnAeL3Tu_Z/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1oHoJ7kPRmZi7uC_KgRX-WiRnAeL3Tu_Z/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un adolescente tímido que vive en la Isla de Wight sueña con el estrellato pop. Con la ayuda de un mentor poco probable, ella participa en una competencia de canto que pondrá a prueba su integridad, talento y ambición.</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/7/7/3/3/9-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Aftermath[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1BPrwAvirC-RGX_NMhrn7d_av7KduRjQ8/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1BPrwAvirC-RGX_NMhrn7d_av7KduRjQ8/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de la Segunda Guerra Mundial, un coronel británico y su esposa son asignados a vivir en Hamburgo durante la reconstrucción de la posguerra, pero surgen tensiones con el viudo alemán que vive con ellos.</info>  
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/8/1/4/7/5-medium.jpg?v=4</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Avengers[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/10g-cs10eKLm6K2iREaCChu382p-fvYBJ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/10g-cs10eKLm6K2iREaCChu382p-fvYBJ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando emerge un enemigo inesperado y amenaza la seguridad mundial, Nick Fury, director de la agencia internacional de mantenimiento de la paz conocida como S.H.I.E.L.D., necesita un equipo para sacar al mundo del borde del desastre. ¡Que abarca el mundo, comienza un audaz reclutamiento!
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/1/2/1/6/2-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Convent Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1y3nHq-IstYEdpPO2elqd4I24cLGcNqeF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1y3nHq-IstYEdpPO2elqd4I24cLGcNqeF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Durante el siglo XVII, una joven es salvada de la ejecución y llevada a un priorato para arrepentirse de sus pecados, pero descubre que hay un mal mayor en su interior.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/7/9/9/3/8-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Death of Dick Long Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1zOK0aKC5SdYiGOTgsgpvWyC5Uv6Q3FMH/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1zOK0aKC5SdYiGOTgsgpvWyC5Uv6Q3FMH/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Dick murió anoche, y Zeke y Earl no quieren que nadie descubra cómo. Sin embargo, eso es una lástima, porque las noticias viajan rápido en el pequeño pueblo de Alabama.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/8/5/9/3/4-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Farewell[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1NdYEHiyBn_R1IYjN9dIUJ51Sf4C_wBTN/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1NdYEHiyBn_R1IYjN9dIUJ51Sf4C_wBTN/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una mujer testaruda chino-estadounidense regresa a China cuando su amada abuela recibe un diagnóstico terminal. Billi lucha con la decisión de su familia de mantener a la abuela en la oscuridad sobre su propia enfermedad, ya que todos organizan una boda improvisada para ver a la abuela por última vez.
+</info>  
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/8/4/3/7/6-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Hustle[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qUfcyyZaJACiFN_Ho0K0NUSJhkmOT7KS/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qUfcyyZaJACiFN_Ho0K0NUSJhkmOT7KS/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Dos estafadoras, una de baja renta y la otra de clase alta, compiten para estafar a un ingenuo prodigio tecnológico fuera de su fortuna. Una nueva versión de la comedia de 1988 "Dirty Rotten Scoundrels".
+</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/8/2/9/4/2-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Last Thing He Wanted[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1skYUK4qrzw3tRUtvLWTaQuXgNvtKFfwv/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1skYUK4qrzw3tRUtvLWTaQuXgNvtKFfwv/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una periodista veterana de DC pierde el hilo de su propia narrativa cuando un recado impulsado por la culpa de su padre la empuja de una línea a un tema inconsciente en la misma historia que está tratando de romper.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/8/2/6/4/9-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Lion King[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1WLa41TIYWJZXc4ZOeGLoy5ix8_4-eVec/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1WLa41TIYWJZXc4ZOeGLoy5ix8_4-eVec/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Simba idolatra a su padre, el rey Mufasa, y toma en serio su propio destino real. Pero no todos en el reino celebran la llegada del nuevo cachorro. Scar, el hermano de Mufasa, y antiguo heredero al trono, tiene sus propios planes. La batalla por Pride Rock está devastada por la traición, la tragedia y el drama, lo que finalmente resulta en el exilio de Simba. Con la ayuda de un par curioso de amigos recién descubiertos, Simba tendrá que descubrir cómo crecer y recuperar lo que es legítimamente suyo.
+</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/6/9/0/0/7-medium.jpg?v=6</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Murder of Nicole Brown Simpson[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1CheRy8GXDfnllq9V5tlFJ7A6E_2xVkmz/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1CheRy8GXDfnllq9V5tlFJ7A6E_2xVkmz/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En 1994, Nicole Brown Simpson y su amigo Ronald Goldman fueron brutalmente asesinados en su casa de Los Ángeles por quien la mayoría cree que es O.J Simpson. Pero, ¿qué papel desempeñó Glen Rogers, también conocido como el asesino de Casanova en su muerte?
+</info>  
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/2/3/7/3/0/1-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Peanut Butter Falcon Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hqUEQxhXnyGNoHkRmAlkhLjJujFoucey/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hqUEQxhXnyGNoHkRmAlkhLjJujFoucey/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un pescador de cangrejo con mala suerte se embarca en un viaje para llevar a un joven con síndrome de Down a una escuela de lucha profesional en la zona rural de Carolina del Norte y lejos de la casa de retiro donde ha vivido durante los últimos dos años y medio.</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/8/6/0/2/6-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Town[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1LHmGMJxBeBDEbmGCrV3HPdmlq1hzZl7U/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1LHmGMJxBeBDEbmGCrV3HPdmlq1hzZl7U/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de un incidente impactante entre una familia normal, Mark Nicholas, de 30 años, regresa a la ciudad donde creció. Después de diez años de distancia, regresar a Renton es más difícil de lo que Mark podría haber imaginado. Siempre tuvo una relación tensa con sus padres, su abuela Betty ahora vive en la habitación de su infancia y apenas conoce a su hermana adolescente Jodie.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/serie/1/2/3/7/6-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]The Vanishing[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1tJFUF4tGStn_rE2u2rWtLTw1Vg_V_OO7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1tJFUF4tGStn_rE2u2rWtLTw1Vg_V_OO7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Tres fareros en una isla deshabitada de la costa de Escocia descubren algo que no es suyo.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/8/0/7/8/0-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Thor Ragnarok[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/19izEfARTUj01HAPHfiEuZgE_q6PkLWvu/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/19izEfARTUj01HAPHfiEuZgE_q6PkLWvu/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Thor está encarcelado al otro lado del universo y se encuentra en una carrera contra el tiempo para regresar a Asgard para detener a Ragnarok, la destrucción de su mundo natal y el fin de la civilización asgardiana, a manos de un nuevo y poderoso todo. amenaza, la despiadada Hela.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/5/7/2/1/2-medium.jpg?v=6</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Thor The Dark World[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1PeE0kBHcq5d3dOY6LZ6vmn4bS9hB0hev/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1PeE0kBHcq5d3dOY6LZ6vmn4bS9hB0hev/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Thor lucha por restablecer el orden en el cosmos ... pero una raza antigua liderada por el vengativo Malekith regresa para sumergir el universo en la oscuridad. Frente a un enemigo que incluso Odin y Asgard no pueden soportar, Thor debe embarcarse en su viaje más peligroso y personal hasta el momento, uno que lo reunirá con Jane Foster y lo obligará a sacrificar todo para salvarnos a todos.</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/3/6/7/8/7-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Thor[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ZT9vluR86sKZXAfOOenxh_r7RXO8JoeF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ZT9vluR86sKZXAfOOenxh_r7RXO8JoeF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Contra la voluntad de su padre Odin, The Mighty Thor, un dios guerrero poderoso pero arrogante, reaviva imprudentemente una antigua guerra. Thor es arrojado a la Tierra y obligado a vivir entre los humanos como castigo. Una vez aquí, Thor aprende lo que se necesita para ser un verdadero héroe cuando el villano más peligroso de su mundo envía las fuerzas más oscuras de Asgard para invadir la Tierra.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/4/0/8/6-medium.jpg?v=2</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Timmy Failure Mistakes Were Made[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1BD9lBKiphKBRUJFtKTuJ5uUdxX3NplBO/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1BD9lBKiphKBRUJFtKTuJ5uUdxX3NplBO/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un niño de 11 años cree que es el mejor detective de la ciudad y dirige la agencia Total Failures con su mejor amigo, un oso polar imaginario de 1.200 libras.
+</info>  
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/2/3/7/3/9/6-medium.jpg?v=0</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]To All the Boys PS I Still Love You[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1SRu2kba5AWbgCyvvZozTxq3OfsdoDGc-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1SRu2kba5AWbgCyvvZozTxq3OfsdoDGc-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Lara Jean y Peter acaban de pasar su romance de fingir a oficialmente real cuando otro destinatario de una de sus cartas de amor entra en escena.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/8/2/2/2/5-medium.jpg?v=3</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Togo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1rTvm0_jwRx-DUBMitOsBVbpDkDzH4yT8/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1rTvm0_jwRx-DUBMitOsBVbpDkDzH4yT8/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Desde Disney, "Togo" es la historia real no contada ambientada en el invierno de 1925 que te lleva a través del terreno traicionero de la tundra de Alaska para una aventura estimulante y estimulante que pondrá a prueba la fuerza, el coraje y la determinación de un hombre, Leonhard Seppala, y su perro de trineo principal, Togo.
+</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/9/1/8/2/7-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Tolkien[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1AA6kWGQ5pabQEvuKIeINDM-TUh8ASueo/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1AA6kWGQ5pabQEvuKIeINDM-TUh8ASueo/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Explore los años formativos del autor huérfano mientras encuentra amistad, amor e inspiración artística entre un grupo de compañeros marginados en la escuela. Esto lo lleva al estallido de la Primera Guerra Mundial, que amenaza con destrozar la "comunidad". Todas estas experiencias inspirarían a Tolkien a escribir sus famosas novelas de la Tierra Media.
+</info>  
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/7/3/5/8/7-medium.jpg?v=4</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Toy Story 4[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hEtlqiB7aF5pNUw2bQcm0hmHi01rDCRg/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hEtlqiB7aF5pNUw2bQcm0hmHi01rDCRg/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Woody siempre ha confiado en su lugar en el mundo y en que su prioridad es cuidar a su hijo, ya sea Andy o Bonnie. Pero cuando Bonnie agrega un nuevo juguete reacio llamado "Forky" a su habitación, una aventura de viaje por carretera junto a viejos y nuevos amigos le mostrará a Woody lo grande que puede ser el mundo para un juguete.
+</info>  
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/6/1/1/7/8-medium.jpg?v=4</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Unplanned Vose[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qCYL3C5NmPW1Nt6MWuxEalFdEt1sXMbU/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qCYL3C5NmPW1Nt6MWuxEalFdEt1sXMbU/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Como una de las directoras clínicas más jóvenes de Planned Parenthood en la nación, Abby Johnson participó en más de 22,000 abortos y aconsejó a innumerables mujeres sobre sus elecciones reproductivas. Su pasión en torno al derecho de una mujer a elegir la llevó a convertirse en portavoz de Planned Parenthood, luchando por promulgar leyes para la causa en la que creía profundamente. Hasta el día en que vio algo que cambió todo.
+</info>  
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/8/3/8/6/0-medium.jpg?v=1</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]Us[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/173nDxV56gG0ejWiBNOCpAF7pm0-MZj_q/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/173nDxV56gG0ejWiBNOCpAF7pm0-MZj_q/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El esposo y la esposa Gabe y Adelaide Wilson llevan a sus hijos a su casa en la playa esperando desconectarse y relajarse con amigos. Pero a medida que desciende la noche, su serenidad se convierte en tensión y caos cuando algunos visitantes impactantes llegan sin ser invitados.
+</info>  
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/8/2/5/3/2-medium.jpg?v=4</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white][B]You Are My Movie[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/17oQthTVKXTNkahw7MyxmUWy7GkqtHU2-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/17oQthTVKXTNkahw7MyxmUWy7GkqtHU2-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Documental sobre la estafa realizada por Ismael Prego (Wismichu) en el Festival de Sitges con la proyección del video "Bocadillo" y dirigido por Carlos Padial sobre las reacciones del público y los medios de comunicación antes del evento.</info>  
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/8/3/6/4/1-medium.jpg?v=1</thumbnail>      
+<item>

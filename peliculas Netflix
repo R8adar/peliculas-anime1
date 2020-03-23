@@ -1,0 +1,1748 @@
+<item>
+<title>[COLOR white][B]6 en la sombra[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iTHz9KtpaKr3WgPWGJa8IVX5IZT-I5hF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iTHz9KtpaKr3WgPWGJa8IVX5IZT-I5hF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de fingir su muerte, un multimillonario tecnológico recluta a un equipo de agentes internacionales para una misión audaz y sangrienta para derrotar a un dictador brutal.</info>
+<thumbnail>https://cinemagavia.es/wp-content/uploads/2019/12/6-en-la-sombra-1.jpg</thumbnail>
+<fanart>https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbK3ZMwAH6DV3o75FX9rx4vPjZl220WfhDl-SVcehCktpgiPQ-aW-NE8XxsNivU0vbSQU-R2lOc1YugjwvfSNR4Z8AkO.jpg?r=6fd</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]6 globos[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1N1bdVpvp-Lcs7MgrddMP5ATDJR2OL3EP/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1N1bdVpvp-Lcs7MgrddMP5ATDJR2OL3EP/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En el transcurso de una noche, una mujer conduce a través de Los Ángeles con su hermano adicto a la heroína en busca de un centro de desintoxicación, con su hija de dos años a cuestas.</info>
+<thumbnail>https://i.ytimg.com/vi/LIwaP6UKLWE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/LIwaP6UKLWE/maxresdefault.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]7 Años[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1xKBC3IKTWcQbhQyUj4_0bib9tgccEgYA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1xKBC3IKTWcQbhQyUj4_0bib9tgccEgYA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El drama se centra en cuatro amigos y socios comerciales que en una noche se ven obligados a encontrar una manera de salvar a su empresa y a ellos mismos. La decisión imposible que enfrentan es acordar quién será el que sacrifique su libertad para salvar a los demás de la desaparición personal y financiera. Es una carrera contra el tiempo que pondrá a prueba su amistad y cordura. ¿Quién tomará la caída?
+</info>
+<thumbnail>https://www.bolsamania.com/cine/wp-content/uploads/2016/12/cine-espa%C3%B1ol-critica-7-a%C3%B1os-netflix.jpg</thumbnail>
+<fanart>https://occ-0-2446-2794.1.nflxso.net/art/7355a/24b5b5aca48cb4e50104a225d7321ec5d417355a.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]22 de julio[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/10ru9ho33lu5FAyVEIz787RtMvg-LIlP-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/10ru9ho33lu5FAyVEIz787RtMvg-LIlP-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En Noruega, el 22 de julio de 2011, el terrorista de derecha Anders Behring Breivik asesinó a 77 jóvenes que asistían a un campamento juvenil del Partido Laborista en la isla de Utöya, a las afueras de Oslo. Esta historia de tres partes se centrará en los sobrevivientes de los ataques, el liderazgo político de Noruega y los abogados involucrados.
+</info>
+<fanart>https://occ-0-114-116.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABQU2tDqAObL-iw3Qgrz3ekNGeIIpLBux1xn_PtQzaIbDO6FxtbavDVVJoltRVMRS5bPZXPOqg0OIElZYfvTOdVjhO_flVk59duFhgsgw_fgjXijMnB0DFiBvj4jgxw.jpg?r=6e8</fanart>      
+<thumbnail>https://ennetflix.co/media/21/22-de-julio_80210932.jpg</thumbnail>
+<item>
+ 
+<item>
+<title>[COLOR white][B]A ciegas[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1dV0metaj1bMnE6ghhA3XLPlDb9PmHawr/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1dV0metaj1bMnE6ghhA3XLPlDb9PmHawr/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cinco años después de una ominosa presencia invisible que lleva a la mayoría de la sociedad al suicidio, una sobreviviente y sus dos hijos hacen un intento desesperado por llegar a un lugar seguro.
+</info>
+<thumbnail>https://i2.wp.com/nodonueve.com/wp-content/uploads/2018/10/poster-bird-box.jpg?fit=1500%2C2222&ssl=1</thumbnail>
+<fanart>https://occ-0-33-37.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABX6M1WFR0uIncT9t_zvSY5eER34MMWmU_6gGEWEixvnAezqvebk1PewQ6qAEm5Vye8o0_0lN8krUgLhY5o5EEaropctL_V2reCWa9wKWC3m0B4MAAVr3Q3vSLiCPXw.jpg?r=b99</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]A pesar de todo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1VUPYW8R5ZJlzTY_ta2yzH61GHZzQgWlA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1VUPYW8R5ZJlzTY_ta2yzH61GHZzQgWlA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Sara, Lucía, Sofía y Claudia son hermanas, 4 mujeres modernas con personalidades muy diferentes, que se unen en el funeral de su madre, después de lo cual descubren que el hombre al que todos han llamado "papá" durante toda su vida no es realmente su padre. Se embarcan en una búsqueda para descubrir quiénes son sus verdaderos padres, descubriendo más sobre sí mismos, su madre y sus vidas.
+</info>
+<fanart>https://i.blogs.es/0ae1a7/cartel-a-pesar-de-todo/1366_2000.jpg</fanart>      
+<thumbnail>https://es.web.img3.acsta.net/pictures/19/03/18/12/24/3891340.jpg</thumbnail>
+<item>
+ 
+<item>
+<title>[COLOR white][B]¿A quién te llevarías a una isla desierta?[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1IQAivq0dJOohQPSRrwncg-djlRjml9Bw/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1IQAivq0dJOohQPSRrwncg-djlRjml9Bw/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En su última noche juntos, la vida de cuatro compañeros de piso desde hace mucho tiempo se volcó repentinamente cuando se revela un secreto durante el curso de una celebración nocturna.
+</info>
+<thumbnail>https://ennetflix.mx/media/15/a-quien-te-llevarias-a-una-isla-desierta_81018120.jpg</thumbnail>
+<fanart>https://blog.mundo-r.com/wp-content/uploads/2019/05/Post_Netflix_Isla_Desierta.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]A todos los chicos de los que me enamoré[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qagluD5CIZB1T-0PyTj2_I_VCdIswfBU/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qagluD5CIZB1T-0PyTj2_I_VCdIswfBU/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La vida amorosa de Lara Jean pasa de ser imaginaria a estar fuera de control cuando sus cartas secretas a cada chico por el que se ha enamorado son misteriosamente enviadas por correo.
+</info>
+<thumbnail>https://i.pinimg.com/originals/41/a8/50/41a85009d44c7f55fdf8484568711dae.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/agRKw1ea_sg/maxresdefault.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Alex Strangelove[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1_7dwC_T3BMCCGY7zkupqZNpns4KY3p7i/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1_7dwC_T3BMCCGY7zkupqZNpns4KY3p7i/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Alex Truelove está en una búsqueda para perder su virginidad, un evento muy esperado por su paciente novia y animado por los consejos de sus ruidosos amigos. Pero Alex, un tipo súper gregario, está extrañamente desmotivado. Una fiesta mágica en la casa arroja a Alex a la presencia de Elliot, un tipo universitario fornido, que califica a Alex como gay y coquetea con fuerza. Alex se sorprende, pero después de una serie de contratiempos en el frente de la novia, se lanza y descubre algunos datos nuevos e interesantes sobre sí mismo.
+</info>
+<thumbnail>https://www.victorsancho.com/wp-content/uploads/2019/06/poster-4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oAY8EyXp7W4/maxresdefault.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Alguien especial[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1yIaTgqiIC6hsvI3-jHF_JFOmadtQdaLp/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1yIaTgqiIC6hsvI3-jHF_JFOmadtQdaLp/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una aspirante a periodista musical consigue el trabajo de sus sueños y está a punto de mudarse a San Francisco cuando su novio de nueve años decide dejarlo. Para cuidar su corazón roto, ella y sus dos mejores amigas pasan una escandalosa última aventura en la ciudad de Nueva York.
+</info>
+<thumbnail>https://images.justwatch.com/poster/127722806/s592</thumbnail>
+<fanart>https://www.verte.tv/image/5506/someone-great-poster.jpg</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]American Factory[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1njyJvLaMw4OXchLCgZrkojwxdqlw_11e/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1njyJvLaMw4OXchLCgZrkojwxdqlw_11e/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En el Ohio postindustrial, un multimillonario chino abre una nueva fábrica en la cáscara de una planta abandonada de General Motors, contratando a dos mil estadounidenses de cuello azul. Los primeros días de esperanza y optimismo dan paso a los reveses a medida que los choques chinos de alta tecnología con los Estados Unidos de clase trabajadora.
+</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/American_Factory_poster.jpg/220px-American_Factory_poster.jpg</thumbnail>
+<fanart>https://occ-0-1818-1723.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS3-LZKLte6dL8dHbQCsj9BJ1_Hx1JpfQu_IvYjIHYpGvgShFuC-8I1c-CeRhrggZDypQCG0DSSGUtcSNpxd2_RTZhHZqgHKGVyGHmuKS6yc-FB6qRsbpIAairkXOA.jpg?r=a42</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Amigas con solera[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/13VD8Y8eIgmlU0cXstx_5scTzbU3Nes9v/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/13VD8Y8eIgmlU0cXstx_5scTzbU3Nes9v/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un grupo de amigos se dirige a la tierra de los Chardonnays de roble y los grandes y audaces Cabernet Sauvignons para un miembro de la fiesta de cumpleaños número 50 del escuadrón.
+</info>
+<thumbnail>https://estaticos2.nochedecine.com/wp-content/uploads/2019/04/amigasconsolera-500x500.jpg</thumbnail>
+<fanart>https://occ-0-33-37.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABScZeBJafSUP6BEUFB9gUaOkp82a7NIbQzaOI7rcgtbpUUrmajqPBrTP24AYutEvyUBrHW6xeu5LbzPq8dZhKZKLkQzEWNM1Bdl1JTzRsMOibnY447f25mktTMi7uw.jpg?r=428</fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Aniquilacion[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1jhTA9dlfnVgYr4g3NkrpvafjxfnZLd5s/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1jhTA9dlfnVgYr4g3NkrpvafjxfnZLd5s/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un biólogo se inscribe en una peligrosa y secreta expedición a una zona misteriosa donde las leyes de la naturaleza no se aplican.
+</info>
+<thumbnail>https://netflixespana.es/media/27/aniquilacion_80206300.jpg</thumbnail>
+<fanart>https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTBxzDa_lB1bvw69gNVeSMoyp-4SAsybQdYFo8jlL17ty5-ENK33AdaFlQ7ZvsyuEoI1LPct31eBmf3Ng7LyM35_iRolusE1Hp1LYJxZKam8JzNkPtnk.jpg?r=880</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Beasts of no nation[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qHec2lY0I_gE7mq2WoCWNYDsjcx2qFfM/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qHec2lY0I_gE7mq2WoCWNYDsjcx2qFfM/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un drama basado en las experiencias de Agu, un niño soldado que lucha en la guerra civil de un país africano no identificado. Sigue el viaje de un joven, Agu, que se ve obligado a unirse a un grupo de soldados en un país ficticio de África occidental. Mientras que Agu teme a su comandante y a muchos de los hombres que lo rodean, su infancia incipiente ha sido brutalmente destrozada por la guerra que azota su país, y al principio se debate entre la repulsión y la fascinación en conflicto. Representa la mecánica de la guerra y no rehuye detalle explícito, visceral, y pinta una imagen compleja y difícil de Agu como un niño soldado.
+</info>
+<fanart>https://tv.bt.com/images/beasts-of-no-nation-136401077231803901-151015163125.jpg</fanart>      
+<thumbnail>https://es.web.img2.acsta.net/pictures/15/11/20/12/45/270531.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Cargo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1X3a-ougRca0jPtQEaYQuVfH9PT-N-r76/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1X3a-ougRca0jPtQEaYQuVfH9PT-N-r76/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de ser infectado a raíz de una pandemia violenta y con solo 48 horas de vida, un padre lucha por encontrar un nuevo hogar para su pequeña hija.
+</info>
+<fanart>https://i.ytimg.com/vi/nkNoapu3JC4/maxresdefault.jpg</fanart>      
+<thumbnail>https://ennetflix.mx/media/15/cargo_80161216.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Como caido del cielo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1bI1Ccq1oTE6_tyJcxdrb_O7y0V7TuBHj/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1bI1Ccq1oTE6_tyJcxdrb_O7y0V7TuBHj/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Al regresar a la Tierra como un imitador, el legendario artista mexicano Pedro Infante debe demostrar que ya no es un mujeriego para entrar al paraíso.
+</info>
+<fanart>https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZZFHfstZCCPQfTEgfPbVnH-20Kq2-gHyGisOmtqKP3hJx5s-8fDh2jh1YGpBV-VV7M2dr7xhqFM7gsK6mD4gt5HZYWQ.jpg?r=d45</fanart>      
+<thumbnail>https://netflixespana.es/media/27/como-caido-del-cielo_80244123.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Cómo deshacerte de tu jefe[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1H5AA72CwaACcswRe8wid7sTdP384Uweh/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1H5AA72CwaACcswRe8wid7sTdP384Uweh/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Dos asistentes con exceso de trabajo y mal pagados idean un plan para quitarse a sus jefes de sus espaldas al colocarlos juntos.
+</info>
+<fanart>https://occ-0-990-987.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZ2qAEx4uGWvGD4tfeF2LhUMWIpFv5XznLz8kqftSLjj8nPzZbBQMbqDqSPGUjjVLvzm6X4cXif5o8XjpknL0xmI-X4wYk5US_yhDeP5vrfbk5k_zH0g.jpg?r=355</fanart>      
+<thumbnail>https://noescinetodoloquereluce.com/wp-content/uploads/2018/08/C%C3%B3mo-deshacerte-de-tu-jefe.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Criminales en el mar[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1io4HB_CaRH3COvOWFmMlLd2xdrTW9s6E/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1io4HB_CaRH3COvOWFmMlLd2xdrTW9s6E/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de asistir a una reunión en el yate de un multimillonario durante unas vacaciones europeas, un policía de Nueva York y su esposa se convierten en los principales sospechosos cuando es asesinado.
+</info>
+<fanart>https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZTHikp_fOPmspeNjHghwlS-TBp-cJs6A-BR7Wknh9bAGGeyuz_ILRfA4aQ7j8N6JS_y6sVcEBQBzKJCYxOXYqyYhQaHm90o2iQMiDDfmDpHyI8rn9FS.jpg?r=241</fanart>      
+<thumbnail>https://i.imgur.com/fIK3fqP.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Diamantes en bruto[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1tQILTIvNH-8vmxIneylfTGHWjCJXycJm/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1tQILTIvNH-8vmxIneylfTGHWjCJXycJm/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un carismático joyero de la ciudad de Nueva York siempre en busca del próximo gran puntaje realiza una serie de apuestas de alto riesgo que podrían conducir a la ganancia inesperada de su vida. Howard debe realizar un acto precario de alto cable, equilibrando negocios, familia y atacando a los adversarios por todos lados en su búsqueda incesante de la victoria final.
+</info>
+<fanart>https://i.ytimg.com/vi/AjAoSWgB6J4/maxresdefault.jpg</fanart>      
+<thumbnail>https://www.accioncine.es/media/k2/items/cache/25e4a2ae922ccb01809c978a586ef39b_XL.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Diecisiete[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1M-z5JN5q0pbFLe2XK8aREwvw_j7l5UU9/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1M-z5JN5q0pbFLe2XK8aREwvw_j7l5UU9/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Para encontrar a su perro de terapia, un joven de 17 años se escapa de Juvie y se embarca en un viaje de reconexión con su hermano y su abuela a través de Cantabria.
+</info>
+<fanart>https://elrescatemusical.com/wp-content/uploads/2019/10/60bd88f5-4b13-49d1-8c64-a8a85241d471.jpg</fanart>      
+<thumbnail>https://i.imgur.com/0tHe5ul.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]El apostol[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1sBtiwtZ2qFpzexK3VKi7BWKBcn2fspg4/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1sBtiwtZ2qFpzexK3VKi7BWKBcn2fspg4/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En 1905, un hombre viaja a una isla remota en busca de su hermana desaparecida que ha sido secuestrada por un misterioso culto religioso.
+</info>
+<fanart>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABbm4YEVw8uRDBRwNEAPEF88YHlsPMb56O3r9hTthb53q88W6YgOWWAOqTivdsDtnRrF3mZlfvePvSe4masqCXoHqCc6DBoNab78FNUKIhPH1GTxkNFyLESN2X8yxhA.jpg?r=aa0</fanart>      
+<thumbnail>https://i.imgur.com/B9UhEfG.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]El Camino: A Breaking Bad Movie[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/14cGAux5sqig5qAJibXRpIpqz6QT4jyRA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/14cGAux5sqig5qAJibXRpIpqz6QT4jyRA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>A raíz de su dramático escape del cautiverio, Jesse Pinkman debe aceptar su pasado para forjar algún tipo de futuro.
+</info>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/portadaelcamino-1570612745.jpg?resize=480:*</fanart>      
+<thumbnail>https://i.imgur.com/fOOCPYP.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]El irlandés[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iXdyGhn5URpElg5G0mrJ40L-gH5qClK3/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iXdyGhn5URpElg5G0mrJ40L-gH5qClK3/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El veterano y mafioso de la Segunda Guerra Mundial Frank "The Irishman" Sheeran recuerda su posible participación en el asesinato del líder sindical Jimmy Hoffa.
+</info>
+<fanart>https://www.elindependiente.com/wp-content/uploads/2020/02/el-irland%C3%A9s-1440x808.jpg</fanart>      
+<thumbnail>https://i.imgur.com/fB5YmCb.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]El juego mas frio[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1y4WDSMRhMKBsqUyH-6NJQCFWFqnwj-x6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1y4WDSMRhMKBsqUyH-6NJQCFWFqnwj-x6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El deshonrado ex campeón de ajedrez Joshua Mansky es reclutado por un agente de la CIA y trasladado a Varsovia para una misión de inteligencia bajo el disfraz de un torneo internacional de ajedrez.
+</info>
+<fanart>https://rockandfilms.es/wp-content/uploads/2020/02/2222222-1.jpg</fanart>      
+<thumbnail>https://i.imgur.com/Qw6mAge.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]El lado siniestro de la luna[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/17TbhbULsKEn4HNL8Vd_mPYvB1E8dn0Zj/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/17TbhbULsKEn4HNL8Vd_mPYvB1E8dn0Zj/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En 1988, el oficial de policía de Filadelfia Thomas "Locke" Lockhart, ansioso por convertirse en detective, comienza a rastrear a un asesino en serie cuyos crímenes desafían la explicación científica. Cuando el asesino resurge misteriosamente nueve años después, la obsesión de Locke de encontrar la verdad amenaza con destruir su carrera, su familia y posiblemente su cordura.
+</info>
+<fanart>https://occ-0-1818-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQgLwqsadRzZBXk25hSx_pstZJXO7BnYHarpR6PJOoPdknjXNkvM5BEqLAC3Tc6Cm5vBKlwx9oqFoILZSlNpLB2BmSkiMIKxgByGTIa6gt-GBcYJaJBk8KZBb3UF-w.jpg?r=c18</fanart>      
+<thumbnail>https://pics.filmaffinity.com/El_lado_siniestro_de_la_luna-990874996-large.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]El paquete[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1RoOl1_8r0GDFl6-_Ax2W-tlOKZEzfqjl/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1RoOl1_8r0GDFl6-_Ax2W-tlOKZEzfqjl/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando un grupo de adolescentes realiza un campamento de vacaciones de primavera, un desafortunado accidente desencadena una carrera para salvar la posesión más preciada de sus amigos.
+</info>
+<fanart>https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcZ7IHCEJdKfOdCAo68rLixjnJZ0EXOgmOBsezF0eWuVjOPBVKPx2If-3CAKrTzSKXAFyHiMFH2zSaaKI3fxo6dGMbgc.jpg?r=a8c</fanart>      
+<thumbnail>https://es.web.img2.acsta.net/pictures/18/07/16/13/53/5015999.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]El rey proscrito[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/12vBn-PprIqH7BrL0ZVvD28qstsVQfc5d/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/12vBn-PprIqH7BrL0ZVvD28qstsVQfc5d/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Forzado al exilio por los ingleses después de ser coronado Rey de Escocia, el legendario guerrero Robert the Bruce lucha por recuperar el trono.
+</info>
+<fanart>https://www.cinemascomics.com/wp-content/uploads/2018/08/el-rey-proscrito-netflix.jpg</fanart>      
+<thumbnail>https://i.imgur.com/gZ8QrM1.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Emboscada final[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/18S6EO4jwx5dPrG2L8Vn8N2Tr9LAVXNq5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/18S6EO4jwx5dPrG2L8Vn8N2Tr9LAVXNq5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En 1934, Frank Hamer y Manny Gault, dos ex Rangers de Texas, se encargan de poner fin a la ola de crímenes viciosos perpetrados por Bonnie Parker y Clyde Barrow, un famoso dúo de ladrones infames y asesinos a sangre fría que, sin embargo, son adorados por el público.
+</info>
+<fanart>https://i.ytimg.com/vi/WkDS9qWjwEs/maxresdefault.jpg</fanart>      
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/7/6/2/6/4-medium.jpg?v=5</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]En la hierba alta[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/13bnqxcwQYp6BRXjxZUVkfdi0ksDPEdIP/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/13bnqxcwQYp6BRXjxZUVkfdi0ksDPEdIP/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de escuchar a un niño gritar pidiendo ayuda desde las profundidades verdes de un vasto campo de hierba alta, Becky, una mujer embarazada, y Cal, su hermano, estacionan su automóvil cerca de una misteriosa iglesia abandonada y entran imprudentemente al campo, descubriendo que no están solos y por alguna razón son incapaces de escapar de un laberinto vegetal completamente inextricable.
+</info>
+<fanart>https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABcNv8IbdXC2QdsBFMv3yz2Vk1IRiSclO2YmZk3mPhC92Tb3RtiBoLeMV-rH7i5L4Z6doVYFbQ9PgytFVZru_Hyn_ffNRereDSwKLMx3vIxu93-6ielH4nt1U4nQV4Q.jpg?r=d09</fanart>      
+<thumbnail>https://i.imgur.com/czr3go9.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Enmienda XIII[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1xBBbfUXbub5RTTqtjCigKjwLxsYG8lNB/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1xBBbfUXbub5RTTqtjCigKjwLxsYG8lNB/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una mirada en profundidad al sistema penitenciario en los Estados Unidos y cómo revela la historia de desigualdad racial de la nación.
+</info>
+<fanart>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcw3pZfnqX_CAMuthm9e4E_INOn7Za0xepdDj-KNJlGJmYB2XDS5f2ZdldRbouP7ATG6JG7VTpnY4d28Lt_9n7vywwKTEszJx3chparAByPMUvAYTkjK0HUnIXL7Ag.jpg?r=139</fanart>      
+<thumbnail>https://i.imgur.com/QZVn00U.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Entre dos helechos[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/18n_dNCIhKBuHKclyneXRUZ2YlU9aJMB7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/18n_dNCIhKBuHKclyneXRUZ2YlU9aJMB7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Galifianakis soñaba con convertirse en una estrella. Pero cuando Will Ferrell descubrió su programa de televisión de acceso público, 'Between Two Ferns' y lo subió a Funny or Die, Zach se convirtió en una fuente de risa viral. Ahora Zach y su equipo están haciendo un viaje por carretera para completar una serie de entrevistas a celebridades de alto perfil y restaurar su reputación.
+</info>
+<fanart>https://i.blogs.es/5df903/ferns/1366_2000.jpg</fanart>      
+<thumbnail>https://i.imgur.com/C87pz93.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Fractura[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1yHpvV_KZegD8tUb-uywkglh7iVlkKKXd/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1yHpvV_KZegD8tUb-uywkglh7iVlkKKXd/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Conduciendo a campo traviesa, Ray y su esposa e hija se detienen en un área de descanso de la autopista donde su hija se cae y se rompe el brazo. Después de una carrera frenética al hospital y un enfrentamiento con la enfermera de registro, Ray finalmente puede llevarla a un médico. Mientras la esposa y la hija bajan las escaleras para una resonancia magnética, Ray, exhausto, se desmaya en una silla en el vestíbulo. Al despertar, no tienen registro ni conocimiento de que la familia de Ray haya sido registrada.
+</info>
+<fanart>https://larepublica.pe/resizer/PPBdB8MP8FNvI5EyXcJ7nE4vHD0=/538x0/top/larepublica.pe/resizer/6MSBCrK3lfAfyHTGsuGcqN_LZxE=/538x0/top/smart/arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/OWMQ2DCZWJGJVHCM2A6EHJM5VQ.JPG</fanart>      
+<thumbnail>https://pics.filmaffinity.com/Fractura-932482622-large.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Hasta los huesos[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1tg2nh1aJ9BGYYUu9G5nK71DOS0VZK9WL/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1tg2nh1aJ9BGYYUu9G5nK71DOS0VZK9WL/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una joven que padece anorexia se encuentra con un médico poco convencional que la reta a enfrentar su condición y abrazar la vida.
+</info>
+<fanart>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABeP3jSFO9-vY9UT1jYnJOBndM9BAH6BQ4nEYZ4dJb0BLua0mIea5cyBlj0meTS6XULOYe0qyA__XVPQjTrrj3rbq5CttLEkmyR8YwelPP3VDmnc9eoG6AdAk6qxnEw.jpg?r=f2d</fanart>      
+<thumbnail>https://i.pinimg.com/474x/80/09/f2/8009f2a27de7590ef5ece31e2d807f22.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]High Flying Bird[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Ks9SV7HTPqu4P1BExn_ppidn2f6fNNmV/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Ks9SV7HTPqu4P1BExn_ppidn2f6fNNmV/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Durante un cierre patronal de la NBA, un agente deportivo, Dean, presenta a su cliente novato, Erick Scott, una oportunidad comercial intrigante y controvertida.
+</info>
+<fanart>https://i.ytimg.com/vi/VQSgIF2EX9w/maxresdefault.jpg</fanart>      
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/99/High_Flying_Bird_%282019_poster%29.png</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Hija de su padre[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1lQkp9_iHUSzbEQVh7hFT5wJrzQ3Xx-7F/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1lQkp9_iHUSzbEQVh7hFT5wJrzQ3Xx-7F/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando una joven ejecutiva adicta al trabajo se queda en el altar, ella termina en su crucero de luna de miel por el Caribe con la última persona que esperaba: su padre separado e igualmente adicto al trabajo. Los dos parten como extraños, pero en el transcurso de algunas aventuras hilarantes, un par de cócteles cubiertos de paraguas y una gran cantidad de búsqueda del alma, regresan con un renovado aprecio por la familia y la vida.
+</info>
+<fanart>https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/08/08/Recortada/img_psola_20180808-172330_imagenes_lv_terceros_like-father_003-355-kv6-U451254438489SoH-992x558@LaVanguardia-Web.jpg</fanart>      
+<thumbnail>https://i.imgur.com/KJi8GXj.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]Historia de un matrimonio[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1RoFdhhl1llY_-ujuRY2UE6zmAu2rTS0j/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1RoFdhhl1llY_-ujuRY2UE6zmAu2rTS0j/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un director de escena y un actor luchan a través de un agotador divorcio de costa a costa que los empuja a sus extremos personales.
+</info>
+<fanart>https://i.ytimg.com/vi/pFg0Rk3L9SY/maxresdefault.jpg</fanart>      
+<thumbnail>https://i.imgur.com/dJwrH4b.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]I Am Mother[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Mocn7JowxjixeRn6Z6o0OTjQpKY3cvyN/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Mocn7JowxjixeRn6Z6o0OTjQpKY3cvyN/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una adolescente es criada bajo tierra por un robot "Madre", diseñado para repoblar la tierra después de un evento de extinción. Pero su vínculo único se ve amenazado cuando llega un extraño inexplicable con noticias alarmantes.
+</info>
+<fanart>https://occ-0-1818-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTppFokDIwpWRxyXyd5TH70XvAxGuGMxKlbUNy3OZ6z8VOepEfRMTG9rpCqMqUV7D_dv_cYns5l60yng_ed2Z_tmMStg.jpg?r=f36</fanart>      
+<thumbnail>https://i.imgur.com/tKM0k2Q.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Ícaro[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1_VyYq_Gep-WKf4i1Fvg_W_TmGvp3kYi6/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1_VyYq_Gep-WKf4i1Fvg_W_TmGvp3kYi6/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Mientras investiga el furtivo mundo del dopaje ilegal en los deportes, el director Bryan Fogel se conecta con el científico renegado ruso Dr. Grigory Rodchenkov, un pilar del programa "antidopaje" de su país. Durante decenas de llamadas de Skype, muestras de orina e inyecciones de hormonas mal administradas, Fogel y Rodchenkov se acercan a pesar de las impactantes acusaciones que colocan a Rodchenkov en el centro del programa de dopaje olímpico patrocinado por el estado de Rusia.
+</info>
+<fanart>https://www.palabraderunner.com/wp-content/uploads/2017/09/ICARUS-documental-icaro-netflix-dopaje.jpg</fanart>      
+<thumbnail>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWn7PI3Erxb4iWuJjDHAQfTxQs9r1KSNEGyZMTdwerpZtz9W-Y2ff9dy-Blimx134YN2VqBT71Qn8Mclt8nvLNa8ujleTPI49mN9Z2OvDSTqAxLY1rxaARRgBsiOTQ.jpg?r=333</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]IO[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1oW3wcJDf178vGp2B4Yp76wSPsC_8QH6n/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1oW3wcJDf178vGp2B4Yp76wSPsC_8QH6n/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando una joven científica busca una manera de salvar una Tierra moribunda, encuentra una conexión con un hombre que está corriendo para atrapar el último transbordador del planeta.
+</info>
+<fanart>https://cinefriki.com/wp-content/uploads/2019/02/dh7idw5dpe04dmwkzdhj.jpg</fanart>      
+<thumbnail>https://pics.filmaffinity.com/IO-874136945-mmed.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]La balada de Buster Scruggs[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1l2ZA6t3896Bj9_6sHao49693X-gRnBEq/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1l2ZA6t3896Bj9_6sHao49693X-gRnBEq/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Viñetas tejiendo las historias de seis individuos en el viejo oeste al final de la Guerra Civil. Siguiendo los cuentos de un cantante que dispara fuerte, un aspirante a ladrón de bancos, dos artistas ambulantes cansados, un buscador de oro solitario, una mujer que viaja por Occidente a un futuro incierto y un grupo heterogéneo de extraños emprendiendo un paseo en carruaje.
+</info>
+<fanart>https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfLF7DrlbWDP-pw0o1RrPe5ovKMlCQ-zlWreC0itTFO_kuMLHVZS73npTKqDhdjf9lMRO5VoHeWvclty6sydsKRyLH34.jpg?r=f16</fanart>      
+<thumbnail>https://i.imgur.com/tqIQgUD.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]La habitación[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iFeHeW7fuJX3a1wRnvAJNqrCbpjVrpmg/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iFeHeW7fuJX3a1wRnvAJNqrCbpjVrpmg/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Jack es un niño de 5 años que ha vivido toda su vida en una habitación. Él cree que todo dentro de él son las únicas cosas reales en el mundo. Pero, ¿qué sucederá cuando su madre le diga de repente que hay otras cosas fuera de la habitación?
+</info>
+<fanart>https://occ-0-360-358.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS1SkCKSibPYm-KE9MRK_l_5uGtQHZKmWTVQS0-m6vk1fMHZzR_pjA6eGBrdAIVzl5BGrI0fZUA_EflOQfk5jy4uueU.jpg?r=ff8</fanart>      
+<thumbnail>https://es.web.img2.acsta.net/pictures/16/02/12/15/38/337334.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]La increíble Jessica James[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/174FJI7eCtFUzCVJtLiCXsDQMWrW4_jrI/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/174FJI7eCtFUzCVJtLiCXsDQMWrW4_jrI/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Quemado por una mala ruptura, un dramaturgo en problemas de la ciudad de Nueva York hace una conexión poco probable con un diseñador de aplicaciones divorciado que conoce en una cita a ciegas.
+</info>
+<fanart>https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYsx1mNhiwJFamJ5_AnrvXJDGijk2rtkUtXqE-VKFWqp5BBp9HswWJige41CZvkzhYIOuGT9igi9bQGiy35rfNX1ZJK-krNYQnPFDb1phcX3eVK4lClR.jpg?r=a24</fanart>      
+<thumbnail>https://es.web.img2.acsta.net/pictures/17/07/11/08/22/567314.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]La invitación[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1xeFjey__hgwUVYOr7sQMIZEyAQP4zYr9/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1xeFjey__hgwUVYOr7sQMIZEyAQP4zYr9/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Will y su nueva novia Kira están invitados a una cena con viejos amigos en la casa del ex Edén de Will y su nuevo compañero David. Aunque la noche parece estar relajada, Will pronto sospecha que su encantador anfitrión David está tramando algo.
+</info>
+<fanart>https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABUFb6Xc926oaWfbzPrCtDkp_D6LNiOToAjy3Rqw36cp3R5NMHxQ5hX8t0x7TCDVYAAbeilIqt8RdfFG0qhSL_Qju2Nig0X4CsA.jpg?r=e71</fanart>      
+<thumbnail>https://es.web.img3.acsta.net/pictures/16/02/24/08/53/491249.jpg</thumbnail>
+<item>
+
+
+<item>
+<title>[COLOR white][B]La perfeccion[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1EBIAGLiQ6x0GPbzdm93oUcPErJhWB96Q/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1EBIAGLiQ6x0GPbzdm93oUcPErJhWB96Q/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando la problemática prodigio musical Charlotte busca a Elizabeth, la nueva alumna estrella de su antigua escuela, el encuentro envía a ambos músicos por un camino siniestro con consecuencias impactantes.
+</info>
+<fanart>https://i.blogs.es/3e9a93/critica-the-perfection-netflix-/1366_2000.jpg</fanart>      
+<thumbnail>https://i.imgur.com/vZy4sSE.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]La ultima carcajada[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1IoDRrOD4Oq9yfgCTrN8_-8wezXTSRucJ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1IoDRrOD4Oq9yfgCTrN8_-8wezXTSRucJ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de mudarse a una casa de retiro, el inquieto gerente de talentos Al se reconecta con el cliente Buddy hace mucho tiempo y lo convence de volver al circuito de comedia.
+</info>
+<fanart>https://mayormente.com/wp-content/uploads/ultimaCarcajada.jpg</fanart>      
+<thumbnail>https://pics.filmaffinity.com/La_ltima_carcajada-987053053-large.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Los dos papas[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1VhvvCVtAkrR4qulWGoKGhvopSytjh7MT/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1VhvvCVtAkrR4qulWGoKGhvopSytjh7MT/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Frustrado con la dirección de la iglesia, el cardenal Bergoglio (Jonathan Pryce) solicita permiso para retirarse en 2012 del papa Benedicto (Anthony Hopkins). En cambio, ante el escándalo y la duda, el introspectivo Papa Benedicto convoca a su crítico más duro y futuro sucesor a Roma para revelar un secreto que sacudiría los cimientos de la Iglesia Católica. Detrás de los muros del Vaticano, comienza una lucha entre la tradición y el progreso, la culpa y el perdón, ya que estos dos hombres muy diferentes confrontan su pasado para encontrar un terreno común y forjar un futuro para mil millones de seguidores en todo el mundo.
+</info>
+<fanart>https://occ-0-590-586.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZVamyOHP_icPuWP_Jaz_V4B0NMORStrSfwIwzdJx_f-Wo4FOrEI2kG9TZfo0v3WJcwWWiImkaLRz1JuA1AePDAfwmiOY43vHl91kmoygCEM8WLAjuW1LQPpVi5C_Q.jpg?r=94d</fanart>      
+<thumbnail>https://i.imgur.com/lNKojK4.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Malevolent[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1xN61ihYFyvr23dV15AD3kis9qNmz6zH1/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1xN61ihYFyvr23dV15AD3kis9qNmz6zH1/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un equipo de hermanos y hermanas que fingen encuentros paranormales por dinero en efectivo obtiene más de lo que esperaban cuando un trabajo en una finca embrujada se vuelve muy, muy real.
+</info>
+<fanart>https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZBkkLw4yCkANVOPwyWEXNSnX3gH5rZgIWqzO_JKDbbVYz2AaqOR4xgLcccDvaZ15lR5cgeIIO4obiKCQW7jQaW0V0yIXMDCyVRNvQ4Fjtfl6DfWi4tc.jpg?r=f6c</fanart>      
+<thumbnail>https://i.imgur.com/dN0bsfB.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Máquina de guerra[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1m4O0GolcSCa8V4c8-q_qjV7FedrLgIJF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1m4O0GolcSCa8V4c8-q_qjV7FedrLgIJF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un general de estrellas de rock empeñado en ganar la guerra "imposible" en Afganistán nos lleva dentro de la compleja maquinaria de la guerra moderna. Inspirado en la historia real del general Stanley McChrystal.
+</info>
+<fanart>https://i.ytimg.com/vi/56bjgXLJKpM/maxresdefault.jpg</fanart>      
+<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/03/maquina-guerra_1.jpg?itok=OR5SUclJ</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Mowgli[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1JIz9QttQuWR7uaN82y1CLA9GNbXMA4JM/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1JIz9QttQuWR7uaN82y1CLA9GNbXMA4JM/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un niño humano criado por lobos, debe enfrentarse a un tigre amenazante llamado Shere Khan, así como a sus propios orígenes.
+La historia sigue la crianza del niño humano Mowgli criado por una manada de lobos en las selvas de la India. A medida que aprende las reglas a menudo duras de la jungla, bajo la tutela de un oso llamado Baloo y una pantera negra llamada Bagheera, Mowgli es aceptado por los animales de la jungla como uno de los suyos, excepto uno; el temible tigre Shere Khan. Pero puede haber mayores peligros al acecho en la jungla, ya que Mowgli se encuentra cara a cara con sus orígenes humanos.
+</info>
+<fanart>https://i.blogs.es/43775f/mowgli-netflix-warner-2019/1366_2000.jpg</fanart>      
+<thumbnail>https://cineactual.net/fotos/mowgliposternetflix.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Mudbound[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1FmyUH1jb75P2To3ONQ83T_RCTcEnl1B0/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1FmyUH1jb75P2To3ONQ83T_RCTcEnl1B0/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En el sur posterior a la Segunda Guerra Mundial, dos familias se enfrentan a una bárbara jerarquía social y a un paisaje implacable mientras luchan simultáneamente en la batalla en casa y en el extranjero.
+</info>
+<fanart>https://as.com/betech/imagenes/2018/01/23/portada/1516719765_780909_1516719836_noticia_normal.jpg</fanart>      
+<thumbnail>https://occ-0-114-116.1.nflxso.net/art/24cbf/b5cbfb1c4b0ac88770cafca10deb003f48d24cbf.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]No es romántico[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1O4xYJhQuRYv4FCn_MTNueVNyLEMiVbvR/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1O4xYJhQuRYv4FCn_MTNueVNyLEMiVbvR/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Durante mucho tiempo, Natalie, una arquitecta australiana que vive en la ciudad de Nueva York, siempre había creído que lo que había visto en las comedias románticas es fantasía. Pero después de frustrar a un asaltante en una estación de metro solo para ser noqueada mientras huía, Natalie se despierta y descubre que su vida se ha convertido de repente en su peor pesadilla, una comedia romántica, y ella es la protagonista.
+</info>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/no-es-romantico-netflix-2-1551614040.jpg</fanart>      
+<thumbnail>https://www.ecartelera.com/carteles/14000/14082/002_m.jpg</thumbnail>
+<item>
+<item>
+<title>[COLOR white][B]Noche de lobos[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/19p5SuPAuFc-mLVJB39Qd9yLroj4n2mPm/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/19p5SuPAuFc-mLVJB39Qd9yLroj4n2mPm/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En el sombrío invierno de Alaska, un naturalista busca lobos culpables de matar a un niño local, pero pronto se ve envuelto en un misterio escalofriante.
+</info>
+<fanart>https://i.blogs.es/677773/noche-de-lobos/1366_2000.jpg</fanart>      
+<thumbnail>https://images.justwatch.com/poster/84932491/s592</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Nos vemos ayer[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Q6OM8f29bncbIMsskpHtJixXaJC6NqU_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Q6OM8f29bncbIMsskpHtJixXaJC6NqU_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Dos adolescentes construyen máquinas de tiempo para salvar a su hermano de ser asesinado por la policía.
+</info>
+<fanart>https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABcVFRw9oh3jx2tVNWdvmh9CXlgGO56bhEs0bPNPxqyD3Ym5xsCNRiBFwQplxtETw9LRd2z8-Qkgu7ChBnBt7sXOneOuXOpnsjRV-fUUwH76_M06b0ejI.jpg?r=70e</fanart>      
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/8/4/5/0/0-medium.jpg?v=1</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Nosotros en la noche[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1CQElNU44tc4_lBzKsP72SkK6oVzip2zV/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1CQElNU44tc4_lBzKsP72SkK6oVzip2zV/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Addie Moore y Louis Waters, viuda y viudo, han vivido juntos durante años. La pareja casi no tiene relación, pero todo cambia cuando Addie intenta establecer una conexión con su vecino.
+</info>
+<fanart>https://i.ytimg.com/vi/Eek_ld6Lgww/maxresdefault.jpg</fanart>      
+<thumbnail>https://i.imgur.com/PXoZvgM.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Obras organizadas: Carp Helix[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1xzl1rcqVwOxLRDc7BeYf_yLFw0lIZxla/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1xzl1rcqVwOxLRDc7BeYf_yLFw0lIZxla/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Asim Noyan estafa a las personas con sus mentiras y juegos. Asim Noyan y su pandilla, a quienes nadie más ha podido atrapar, entran nuevamente en una artimaña.
+</info>
+<fanart>https://occ-0-116-114.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABRoW74sbUrAwU-mRatIL0aPQ9jpFlXkIrhPHYP-8fWHSdYKLXmQVb6PEenGlXyOjWOn9Ri8U8yUGFT6Rw9lJ9ZOn_6FTIXU_crrlV7gNJT0m3678XRo0WgM-V9LlPQ.jpg?r=c65</fanart>      
+<thumbnail>https://images.justwatch.com/poster/126586261/s592</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Obsesion secreta[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hzVXCYK_YYMvAVWTt4vOijw7bD0Q7uyL/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hzVXCYK_YYMvAVWTt4vOijw7bD0Q7uyL/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La recién casada Jennifer es brutalmente atacada en una oscura parada de descanso. Mientras se cura de sus heridas, no puede recordar nada de su pasado, incluida la terrible experiencia. Su esposo, Russell, está agradecido de que esté viva y ansiosa por llevarla a casa. Cuando la reintroduce en su apartada finca montañosa, el detective Page persigue al asaltante de Jennifer: su propia hija desapareció y nunca fue encontrada. El mismo destino ahora le espera a Jennifer, a menos que alguien se dé cuenta de que su cuidador es en realidad su captor.
+</info>
+<fanart>https://occ-0-33-37.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXyQzCK3_m0Iu_5lg8hgkPVzzv9mkkvoaylU8hHtlL1go9kstTcaxl72bUS5gBXVfKj4X0RTe3C6DwtPUYzZ5qUbD1_vDlJFmxlo6WmTpP_BV99_IjQge9AzOSmZQQ.jpg?r=c12</fanart>      
+<thumbnail>https://pics.filmaffinity.com/Secret_Obsession-450719311-large.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Okja[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Z3aqO28D1L0OB3yQ-Di7Xj99QTgrFUH7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Z3aqO28D1L0OB3yQ-Di7Xj99QTgrFUH7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una joven llamada Mija arriesga todo para evitar que una poderosa compañía multinacional secuestros a su mejor amiga, un animal masivo llamado Okja.
+</info>
+<fanart>https://www.tekcrispy.com/wp-content/uploads/2017/06/okja.jpg</fanart>      
+<thumbnail>https://occ-0-300-299.1.nflxso.net/art/ee03a/5715b799c50ba7ee18e8be3d2bb9bfa3eeaee03a.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Paddleton[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1aub1yTW8P0Ynvq8lBwUlvu87zz8v5jzO/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1aub1yTW8P0Ynvq8lBwUlvu87zz8v5jzO/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una amistad improbable entre dos vecinos inadaptados se convierte en un viaje inesperadamente emocional cuando el hombre más joven es diagnosticado con cáncer terminal.
+</info>
+<fanart>https://occ-0-33-37.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABfBqlpDDxNe3pfig_-CzZJ-YiPwszpGl_Sb51fX1Fl85DgMfJQdu09bh37y3zzcXJbW6FgY2j6_tLArUqd_iD_OdTOpmJvlsXLi5sP_XCzpPDXCxMZ3VkuEbNOT4tA.jpg?r=cc1</fanart>      
+<thumbnail>https://i.imgur.com/bNH7yz0.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Pequeño demonio[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1GnG8-bZkFuqtsnnQhrRj0ME8_GIhc2H5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1GnG8-bZkFuqtsnnQhrRj0ME8_GIhc2H5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Gary, que se acaba de casar con Samantha, la mujer de sus sueños, descubre que su hijo de seis años puede ser el Anticristo.
+</info>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2017/09/pequeno-demonio.jpg?itok=KOD5U2gr</fanart>      
+<thumbnail>https://i.imgur.com/ghG5VeZ.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Roxanne Roxanne[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ULvX5xspDmK360fP21fjI1iF--T8o1fG/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ULvX5xspDmK360fP21fjI1iF--T8o1fG/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La maestra de batalla más temida a principios de los años 80 en Nueva York era una adolescente feroz de los proyectos de Queensbridge con el peso del mundo sobre sus hombros. A los 14 años, apresurando las calles para mantener a su familia, Roxanne Shanté estaba en camino de convertirse en una leyenda del hip-hop.
+</info>
+<fanart>https://occ-0-990-987.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABWnNvGE5WsE8RuPBbRiXB8qcgrxhI3Z2XEEKd_rHx1Fuu6CnaXgUvbz7C4yXqhVNqp90Jc4XcSoiDjBgSN8ThNfn4JncczMMgn69yCLlG5MDhVvKYgi0.jpg?r=ed9</fanart>      
+<thumbnail>https://occ-0-2567-2568.1.nflxso.net/art/fa5dc/30d5f1f514e1b9e6a215c5af983e65ba864fa5dc.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Sierra Burgess es una perdedora[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1yCUbedyIalsoZ2gFxyo_qkkxpfVa5Lqr/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1yCUbedyIalsoZ2gFxyo_qkkxpfVa5Lqr/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un caso de identidad equivocada resulta en un romance inesperado cuando la chica más popular en la escuela secundaria y el mayor perdedor deben unirse para conquistar sus enamoramientos.
+</info>
+<fanart>https://occ-0-1818-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXkvMZukJ9tFtj4FBFl2LxFq4ySw-yY7aL3NpkQSFTPkD0fIanrn_KhuixYhnNwJ4-MNj2diDgF3PYbQra65zb0TDEw7rapAMsB42uC0Lvd9DnqVqfhjZiOaGUbt8A.jpg?r=220</fanart>      
+<thumbnail>https://es.web.img3.acsta.net/pictures/18/07/11/19/56/4132437.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Spenser Confidential[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1llA0JfLrbuZuJLlvPEGhu3V0lGFhmVUc/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1llA0JfLrbuZuJLlvPEGhu3V0lGFhmVUc/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Spenser, un ex policía mejor conocido por causar problemas que resolverlos, acaba de salir de prisión y se va de Boston para siempre. Pero primero lo obligaron a ayudar a su antiguo entrenador de boxeo y mentor Henry, con un prometedor aficionado. Ese es Hawk, un peleador de MMA impetuoso, sin sentido, convencido de que será un oponente más duro que Spenser. Cuando dos de los antiguos colegas de Spenser son asesinados, él recluta a Hawk y a su ex novia Cissy para ayudarlo a investigar y llevar a los culpables ante la justicia.
+</info>
+<fanart>https://cdn.themedizine.com/2020/03/spenser-confidential-post-malone-1000x563.jpg</fanart>      
+<thumbnail>https://m.media-amazon.com/images/I/81UIhhNlmpL._SS500_.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The Babysitter[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ARlplPbxbMCaH_FaLTU48c-Wmc6RCCjk/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ARlplPbxbMCaH_FaLTU48c-Wmc6RCCjk/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando Cole se queda despierto más allá de su hora de acostarse, descubre que su niñera caliente es parte de un culto satánico que no se detendrá ante nada para mantenerlo en silencio.
+</info>
+<fanart>https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTmkPKdt93Mk3lyZNA_uFjjzh_EZzvvLnHkP2DzlVfbcGi1vNu23NSK-KC10W-XOfl5iLqhV11WeinK5ZqB9tiBFYr6fwXxIv9JMqPZ5h6hIlJXma7_1.jpg?r=52d</fanart>      
+<thumbnail>https://i.imgur.com/5OqRQk1.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The King[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1FIv_bk1kohIPLRdnDas-amJbq9b0onYN/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1FIv_bk1kohIPLRdnDas-amJbq9b0onYN/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Inglaterra, siglo XV. Hal, un príncipe caprichoso que vive entre la población lejos de la corte, se ve obligado por las circunstancias a aceptar de mala gana el trono y convertirse en Henry V.
+</info>
+<fanart>https://areajugones.sport.es/wp-content/uploads/2019/08/The-King-780x440.jpg.webp</fanart>      
+<thumbnail>https://i.imgur.com/szeiS0u.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The Meyerowitz Stories[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1GHwr3mNqVaQPxW5g1g2k3iO22SUuK59n/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1GHwr3mNqVaQPxW5g1g2k3iO22SUuK59n/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una familia separada se reúne en Nueva York para un evento que celebra el trabajo artístico de su padre.
+</info>
+<fanart>https://i.ytimg.com/vi/UD1tq9uRG2A/maxresdefault.jpg</fanart>      
+<thumbnail>https://i.imgur.com/LiYU0eZ.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The night comes for us[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1A2mtOasCemgpjUly4km0H45WMXt8gRWl/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1A2mtOasCemgpjUly4km0H45WMXt8gRWl/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Después de salvar la vida de una niña durante una masacre, un asesino de la Tríada de élite es el objetivo de un ataque de gángsters asesinos.
+</info>
+<fanart>https://i.blogs.es/d442f6/the-nightcomesnetflix/450_1000.jpeg</fanart>      
+<thumbnail>https://i.imgur.com/ZFrlyqc.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The Ritual[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1vMNL7dP9G6fwDp4POyLftPs4MZY3pIuT/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1vMNL7dP9G6fwDp4POyLftPs4MZY3pIuT/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un grupo de amigos de la universidad se reúnen para un viaje al bosque, pero encuentran una presencia amenazante en el bosque que los acecha.
+</info>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2018/02/ritual.jpg?itok=jjYCRtlY</fanart>      
+<thumbnail>https://occ-0-1001-999.1.nflxso.net/art/c4b85/4b49ae19bdd96e1787c8e893cd8aa2c0417c4b85.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The Silence[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1rQgjY6qIedewfXWVc8sKTuXQ3wJWcfBS/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1rQgjY6qIedewfXWVc8sKTuXQ3wJWcfBS/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Con el mundo bajo el ataque de criaturas mortales que cazan por el sonido, una adolescente y su familia buscan refugio fuera de la ciudad y se encuentran con un misterioso culto.
+</info>
+<fanart>https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSQO1SEX_QsMwVb6IJGx6amxDtZuylxpRzGL_NpMucwpF1tRKRBf5gl8mcyipOgk82asUGjiAQWpV8Dx_ZG1gp7hJpru.jpg?r=945</fanart>      
+<thumbnail>https://i.imgur.com/vUCS6Ak.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]The Wandering Earth[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1f_GUnBYGPch2KhtmS1AlwDwb2bPMrmSk/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1f_GUnBYGPch2KhtmS1AlwDwb2bPMrmSk/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando el Sol comienza a expandirse de tal manera que inevitablemente envolverá y destruirá la Tierra en cien años, la humanidad unida encuentra una manera de evitar la extinción impulsando el planeta fuera del Sistema Solar usando motores gigantes, moviéndolo a un nuevo casa ubicada a cuatro años luz de distancia, un viaje épico que durará miles de años.
+</info>
+<fanart>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfYrhTm7qSk5xquJBlHof6yZq3l8blwZ4HMNVSQ94WfbrdPbWJdsgtuHRW0wGcL2oF5lAMO-Pxri-oAFZjs6bSxhQfWWpusfvMj2K9_DMMFFkHK2EWejpTCp92anjQ.jpg?r=387</fanart>      
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzBlZDQxYjgtODFjMC00OWY2LTkxOWYtNzIyMzQ0ZjI5YzgxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Triple frontera[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/12WBMmkAJsxJxTeAKn6lYFCf5u0f4IzCh/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/12WBMmkAJsxJxTeAKn6lYFCf5u0f4IzCh/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Luchando para llegar a fin de mes, los ex soldados de operaciones especiales se reúnen para un robo de alto riesgo: robar $ 75 millones de un narcotraficante sudamericano.
+</info>
+<fanart>https://occ-0-37-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZWdD5Pg2sCQdNjtP7r1IeCyBFDMQV4M8ztgPnvkgvhsOu5UTrFHiYQPRaH6IlwX_s1x_K42RxdUqCzKO0779C5ydKG_b3kUaPRWoIHUKW9a06aJxl2E7o42_9mZ8Q.jpg?r=a61</fanart>      
+<thumbnail>https://i.imgur.com/JjEhvII.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Un lugar tranquilo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1MrYvW0lPHrLNMluaub2pmlcu3Qymy7DC/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1MrYvW0lPHrLNMluaub2pmlcu3Qymy7DC/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una familia se ve obligada a vivir en silencio mientras se esconde de las criaturas que cazan por el sonido.
+</info>
+<fanart>https://www.movistarplus.es/recorte/n/galeria/F3545090</fanart>      
+<thumbnail>https://es.web.img2.acsta.net/pictures/18/02/15/13/03/3178762.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Velvet Buzzsaw[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1Ti64tO2fOfk5kXROU-5KduJ1HLZU3DOp/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1Ti64tO2fOfk5kXROU-5KduJ1HLZU3DOp/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Grandes artistas y mega coleccionistas pagan un alto precio cuando el arte choca con el comercio. Después de que se descubre una serie de pinturas de un artista desconocido, una fuerza sobrenatural se venga de aquellos que han permitido que su codicia se interponga en el camino del arte.
+</info>
+<fanart>https://i.ytimg.com/vi/0ZHhT5pappY/maxresdefault.jpg</fanart>      
+<thumbnail>https://i.imgur.com/WMPRraz.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Wounds[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = https://drive.google.com/file/d/16Jma6n1Wd4JCDbjDQPfTGxUrT0AbQ7s0/view?usp=sharing
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/16Jma6n1Wd4JCDbjDQPfTGxUrT0AbQ7s0/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cosas inquietantes y misteriosas comienzan a sucederle a un cantinero en Nueva Orleans después de que levanta el teléfono que dejó en su bar.
+</info>
+<fanart>https://cde.laprensa.e3.pe/ima/0/0/2/3/5/235116.jpg</fanart>      
+<thumbnail>https://i.imgur.com/vNQO3WY.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Ya no me siento a gusto en este mundo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/16ihppDuPb_qk-SfLiNf3QgdBxy4rnsdA/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/16ihppDuPb_qk-SfLiNf3QgdBxy4rnsdA/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Cuando una mujer deprimida es robada, encuentra un nuevo sentido de propósito al rastrear a los ladrones junto a su desagradable vecino. Pero pronto se encuentran peligrosamente fuera de su alcance contra una manada de criminales degenerados.
+</info>
+<fanart>https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABQPEFMXmnuwJhGR9YwiqCQ9D4kj8oRCGKNxiZ7FO35q4njWrfjqeidGeCfaBlGYwz6p4EOln0hc74C1bpB5OwkmUYDT8asYwMCCT_iUlz1wAriyjuJ_3.jpg?r=650</fanart>      
+<thumbnail>https://es.web.img3.acsta.net/pictures/17/02/22/10/54/227729.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR white][B]Yo soy Dolemite[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1nDvTSP_0QDaa0lAiQSR75ILAArr0ltZY/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1nDvTSP_0QDaa0lAiQSR75ILAArr0ltZY/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>La historia de Rudy Ray Moore, quien creó el icónico personaje proxeneta de la gran pantalla Dolemite en la década de 1970.
+</info>
+<fanart>https://i.ytimg.com/vi/sUAI9LxaOM4/maxresdefault.jpg</fanart>      
+<thumbnail>https://i.imgur.com/dSQDhqI.jpg</thumbnail>
+<item>
+
+
