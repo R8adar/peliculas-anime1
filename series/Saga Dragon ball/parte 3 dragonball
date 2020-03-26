@@ -6,11 +6,11 @@
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/np7nn6j2k8gs'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/np7nn6j2k8gs'
    return u
 ]]></expres>
 <page></page>
@@ -26,11 +26,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/n2ab8pkgw0enw'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/n2ab8pkgw0enw'
    return u
 ]]></expres>
 <page></page>
@@ -46,11 +46,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/iweax0j2mc41p'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/iweax0j2mc41p'
    return u
 ]]></expres>
 <page></page>
@@ -66,11 +66,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/b12rve7c6rj'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/b12rve7c6rj'
    return u
 ]]></expres>
 <page></page>
@@ -86,11 +86,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/1fsp6771l6dh'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/1fsp6771l6dh'
    return u
 ]]></expres>
 <page></page>
@@ -106,11 +106,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/yhka2s0g7wgt'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/yhka2s0g7wgt'
    return u
 ]]></expres>
 <page></page>
@@ -126,11 +126,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/r3086r7ykvr'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/r3086r7ykvr'
    return u
 ]]></expres>
 <page></page>
@@ -146,11 +146,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/y93l2244per2g'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/y93l2244per2g'
    return u
 ]]></expres>
 <page></page>
@@ -166,11 +166,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/lculrvl4cxq'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/lculrvl4cxq'
    return u
 ]]></expres>
 <page></page>
@@ -186,11 +186,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/fhjdahn0m6'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/fhjdahn0m6'
    return u
 ]]></expres>
 <page></page>
@@ -206,11 +206,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/thskoyteas7n'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/thskoyteas7n'
    return u
 ]]></expres>
 <page></page>
@@ -226,11 +226,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/p2tf5bf7a'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/p2tf5bf7a'
    return u
 ]]></expres>
 <page></page>
@@ -246,11 +246,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/1vyjk9tgidp'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/1vyjk9tgidp'
    return u
 ]]></expres>
 <page></page>
@@ -266,11 +266,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/687fxtdbps'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/687fxtdbps'
    return u
 ]]></expres>
 <page></page>
@@ -286,11 +286,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/k9agf5k29r8th'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/k9agf5k29r8th'
    return u
 ]]></expres>
 <page></page>
@@ -306,11 +306,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/hjddo20l9en02'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/hjddo20l9en02'
    return u
 ]]></expres>
 <page></page>
@@ -326,11 +326,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/vsoixyhpocimf'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/vsoixyhpocimf'
    return u
 ]]></expres>
 <page></page>
@@ -780,26 +780,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR white][B]Capitulo 40[/B][/COLOR]</title>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import resolveurl
-   url = ''
-   try:
-       u = resolveurl.resolve(url)
-   except:
-       u = ''
-   return u
-]]></expres>
-<page></page>
-</regex>
-<fanart></fanart>      
-<item>
-
-<item>
-<title>[COLOR white][B]Capitulo 41[/B][/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
