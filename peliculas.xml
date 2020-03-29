@@ -1,5 +1,5 @@
 <item>
-    <title>[B][COLOR red]ORGINALES NETFLIX[/COLOR][/B]</title>
+    <title>[COLOR red]ORGINALES NETFLIX[/COLOR]</title>
     <link>nolink</link>
     <externallink>https://raw.githubusercontent.com/iberikakod/peliculas-anime1/master/peliculas%20Netflix</externallink>
 <thumbnail>https://d500.epimg.net/cincodias/imagenes/2019/10/22/smarttv/1571728517_406523_1571730646_noticia_normal.jpg</thumbnail>
@@ -7,7 +7,7 @@
 
 
 <item>
-<title>[COLOR white][B]Contagio[/B][/COLOR]</title>
+<title>[COLOR white]Contagio[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -28,7 +28,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]2036 Origin Unknown Vose[/B][/COLOR]</title>
+<title>[COLOR white]2036 Origin Unknown Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]A Fall From Grace[/B][/COLOR]</title>
+<title>[COLOR white]A Fall From Grace[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -72,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]A Ghost Story[/B][/COLOR]</title>
+<title>[COLOR white]A Ghost Story[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -94,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]A-X-L Vose[/B][/COLOR]</title>
+<title>[COLOR white]A-X-L Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -116,7 +116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Ad Astra[/B][/COLOR]</title>
+<title>[COLOR white]Ad Astra[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -138,7 +138,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Airplane Mode[/B][/COLOR]</title>
+<title>[COLOR white]Airplane Mode[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -160,7 +160,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Aladdin[/B][/COLOR]</title>
+<title>[COLOR white]Aladdin[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -182,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Anastasia vose[/B][/COLOR]</title>
+<title>[COLOR white]Anastasia vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -204,7 +204,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Angel Has Fallen[/B][/COLOR]</title>
+<title>[COLOR white]Angel Has Fallen[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -226,7 +226,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Ant-Man[/B][/COLOR]</title>
+<title>[COLOR white]Ant-Man[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -247,7 +247,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Assassination Nation[/B][/COLOR]</title>
+<title>[COLOR white]Assassination Nation[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -269,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Avengers Age of Ultron[/B][/COLOR]</title>
+<title>[COLOR white]Avengers Age of Ultron[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -292,7 +292,7 @@ When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awr
 <item>
 
 <item>
-<title>[COLOR white][B]Black Panther[/B][/COLOR]</title>
+<title>[COLOR white]Black Panther[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -314,7 +314,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Captain Marvel[/B][/COLOR]</title>
+<title>[COLOR white]Captain Marvel[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -336,7 +336,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Captive State Vose[/B][/COLOR]</title>
+<title>[COLOR white]Captive State Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -358,7 +358,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Charlie's Angels[/B][/COLOR]</title>
+<title>[COLOR white]Charlie's Angels[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -380,7 +380,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Cindy la Regia Lat[/B][/COLOR]</title>
+<title>[COLOR white]Cindy la Regia Lat[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -402,7 +402,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]City of Lies[/B][/COLOR]</title>
+<title>[COLOR white]City of Lies[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -424,7 +424,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Come to Daddy[/B][/COLOR]</title>
+<title>[COLOR white]Come to Daddy[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -446,7 +446,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Dolittle[/B][/COLOR]</title>
+<title>[COLOR white]Dolittle[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -467,7 +467,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Fast & Furious Presents Hobbs & Shaw[/B][/COLOR]</title>
+<title>[COLOR white]Fast & Furious Presents Hobbs & Shaw[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -489,7 +489,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Fighting with My Family[/B][/COLOR]</title>
+<title>[COLOR white]Fighting with My Family[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -511,7 +511,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Frozen II[/B][/COLOR]</title>
+<title>[COLOR white]Frozen II[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -533,7 +533,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Game of Thrones The Last Watch Vose[/B][/COLOR]</title>
+<title>[COLOR white]Game of Thrones The Last Watch Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -555,7 +555,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Glass[/B][/COLOR]</title>
+<title>[COLOR white]Glass[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -577,7 +577,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Go![/B][/COLOR]</title>
+<title>[COLOR white]Go![/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -598,7 +598,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Hellboy[/B][/COLOR]</title>
+<title>[COLOR white]Hellboy[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -620,7 +620,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Horse Girl[/B][/COLOR]</title>
+<title>[COLOR white]Horse Girl[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -642,7 +642,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]How to Train Your Dragon[/B][/COLOR]</title>
+<title>[COLOR white]How to Train Your Dragon[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -664,7 +664,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Inherit the Viper Vose[/B][/COLOR]</title>
+<title>[COLOR white]Inherit the Viper Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -686,7 +686,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Inside Man Most Wanted Vose[/B][/COLOR]</title>
+<title>[COLOR white]Inside Man Most Wanted Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -707,7 +707,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Iron Man 3[/B][/COLOR]</title>
+<title>[COLOR white]Iron Man 3[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -729,7 +729,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Iron Sky: The Coming Race[/B][/COLOR]</title>
+<title>[COLOR white]Iron Sky: The Coming Race[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -750,7 +750,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Isi & Ossi[/B][/COLOR]</title>
+<title>[COLOR white]Isi & Ossi[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -771,7 +771,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Jay and Silent Bob Reboot[/B][/COLOR]</title>
+<title>[COLOR white]Jay and Silent Bob Reboot[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -793,7 +793,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Land of Mine[/B][/COLOR]</title>
+<title>[COLOR white]Land of Mine[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -814,7 +814,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Little White Lies 2[/B][/COLOR]</title>
+<title>[COLOR white]Little White Lies 2[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -836,7 +836,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Lost Girls[/B][/COLOR]</title>
+<title>[COLOR white]Lost Girls[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -857,7 +857,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Lucid Dream[/B][/COLOR]</title>
+<title>[COLOR white]Lucid Dream[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -879,7 +879,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
  
 <item>
-<title>[COLOR white][B]Lucy in the Sky[/B][/COLOR]</title>
+<title>[COLOR white]Lucy in the Sky[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -901,7 +901,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Master Z Ip Man Legacy Vose[/B][/COLOR]</title>
+<title>[COLOR white]Master Z Ip Man Legacy Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -923,7 +923,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Men in Black: International[/B][/COLOR]</title>
+<title>[COLOR white]Men in Black: International[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -944,7 +944,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Muse[/B][/COLOR]</title>
+<title>[COLOR white]Muse[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -966,7 +966,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]My Pet Dinosaur[/B][/COLOR]</title>
+<title>[COLOR white]My Pet Dinosaur[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -988,7 +988,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Noelle Vose[/B][/COLOR]</title>
+<title>[COLOR white]Noelle Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1009,7 +1009,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Pirates of the Caribbean Dead Men Tell No Tales[/B][/COLOR]</title>
+<title>[COLOR white]Pirates of the Caribbean Dead Men Tell No Tales[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1031,7 +1031,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]RoboCop[/B][/COLOR]</title>
+<title>[COLOR white]RoboCop[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1052,7 +1052,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Savage Dog[/B][/COLOR]</title>
+<title>[COLOR white]Savage Dog[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1074,7 +1074,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Son of Batman[/B][/COLOR]</title>
+<title>[COLOR white]Son of Batman[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1096,7 +1096,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Sonic the Hedgehog Vose[/B][/COLOR]</title>
+<title>[COLOR white]Sonic the Hedgehog Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1117,7 +1117,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Spenser Confidential[/B][/COLOR]</title>
+<title>[COLOR white]Spenser Confidential[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1139,7 +1139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Star Wars The Rise of Skywalker[/B][/COLOR]</title>
+<title>[COLOR white]Star Wars The Rise of Skywalker[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1161,7 +1161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Superman Red Son Vose[/B][/COLOR]</title>
+<title>[COLOR white]Superman Red Son Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1183,7 +1183,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Teen Spirit Vose[/B][/COLOR]</title>
+<title>[COLOR white]Teen Spirit Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1204,7 +1204,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Aftermath[/B][/COLOR]</title>
+<title>[COLOR white]The Aftermath[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1225,7 +1225,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Avengers[/B][/COLOR]</title>
+<title>[COLOR white]The Avengers[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1247,7 +1247,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Convent Vose[/B][/COLOR]</title>
+<title>[COLOR white]The Convent Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1269,7 +1269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Death of Dick Long Vose[/B][/COLOR]</title>
+<title>[COLOR white]The Death of Dick Long Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1291,7 +1291,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Farewell[/B][/COLOR]</title>
+<title>[COLOR white]The Farewell[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1313,7 +1313,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Hustle[/B][/COLOR]</title>
+<title>[COLOR white]The Hustle[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1335,7 +1335,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Last Thing He Wanted[/B][/COLOR]</title>
+<title>[COLOR white]The Last Thing He Wanted[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1357,7 +1357,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Lion King[/B][/COLOR]</title>
+<title>[COLOR white]The Lion King[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1379,7 +1379,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Murder of Nicole Brown Simpson[/B][/COLOR]</title>
+<title>[COLOR white]The Murder of Nicole Brown Simpson[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1401,7 +1401,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Peanut Butter Falcon Vose[/B][/COLOR]</title>
+<title>[COLOR white]The Peanut Butter Falcon Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1422,7 +1422,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Town[/B][/COLOR]</title>
+<title>[COLOR white]The Town[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1444,7 +1444,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]The Vanishing[/B][/COLOR]</title>
+<title>[COLOR white]The Vanishing[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1466,7 +1466,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Thor Ragnarok[/B][/COLOR]</title>
+<title>[COLOR white]Thor Ragnarok[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1488,7 +1488,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Thor The Dark World[/B][/COLOR]</title>
+<title>[COLOR white]Thor The Dark World[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1509,7 +1509,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Thor[/B][/COLOR]</title>
+<title>[COLOR white]Thor[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1531,7 +1531,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Timmy Failure Mistakes Were Made[/B][/COLOR]</title>
+<title>[COLOR white]Timmy Failure Mistakes Were Made[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1553,7 +1553,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]To All the Boys PS I Still Love You[/B][/COLOR]</title>
+<title>[COLOR white]To All the Boys PS I Still Love You[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1575,7 +1575,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Togo[/B][/COLOR]</title>
+<title>[COLOR white]Togo[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1597,7 +1597,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Tolkien[/B][/COLOR]</title>
+<title>[COLOR white]Tolkien[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1619,7 +1619,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Toy Story 4[/B][/COLOR]</title>
+<title>[COLOR white]Toy Story 4[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1641,7 +1641,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Unplanned Vose[/B][/COLOR]</title>
+<title>[COLOR white]Unplanned Vose[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1663,7 +1663,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]Us[/B][/COLOR]</title>
+<title>[COLOR white]Us[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -1685,7 +1685,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR white][B]You Are My Movie[/B][/COLOR]</title>
+<title>[COLOR white]You Are My Movie[/COLOR]</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
