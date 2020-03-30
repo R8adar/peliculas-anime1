@@ -1,0 +1,136 @@
+<item>
+<title>[COLOR white][B]The Terminator[(1984)/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/0v9p6q8rtowo8l'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/0v9p6q8rtowo8l'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/iyIRb3o.jpg</fanart>  
+<thumbnail>https://i.imgur.com/E0bRAgP.jpg</thumbnail>
+<info>En el futuro postapocalíptico, los supercomputadores tiránicos reinantes teletransportan a un asesino cyborg conocido como "Terminator" de regreso a 1984 para matar a Sarah Connor, cuyo hijo por nacer está destinado a liderar a los insurgentes contra la hegemonía mecánica del siglo XXI. Mientras tanto, el movimiento de resistencia humana envía a un guerrero solitario para proteger a Sarah. ¿Puede detener la máquina de matar prácticamente indestructible?</info>   
+<item>
+
+<item>
+<title>[COLOR white][B]El Juicio Final[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/1v9m1rezi9k641'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/1v9m1rezi9k641'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/v3rUWMA.jpg</fanart>  
+<thumbnail>https://i.imgur.com/78rmdcj.jpg</thumbnail>
+<info></info>   
+<item>
+
+<item>
+<title>[COLOR white][B]La Rebelion de las Maquinas (2003)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/0v9p6x1rfogq8z'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/0v9p6x1rfogq8z'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/bpPeHzU.jpg</fanart>  
+<thumbnail>https://i.imgur.com/j7GpvQm.jpg</thumbnail>
+<info>Han pasado 10 años desde que John Connor salvó a la Tierra del Día del Juicio Final, y ahora vive bajo el radar, evitando usar cualquier cosa que Skynet pueda rastrear. Es decir, hasta que se encuentra con T-X, un asesino robótico ordenó terminar lo que T-1000 comenzó. Lo bueno es que el ex enemigo de Connor, Terminator, regresó para ayudar al ahora adulto Connor ... tal como lo prometió.</info>   
+<item>
+
+<item>
+<title>[COLOR white][B]Salvation (2009)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/nvanvu4zwk'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/nvanvu4zwk'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/05zyg1M.jpg</fanart>  
+<thumbnail>https://i.imgur.com/vlvjlO2.jpg</thumbnail>
+<info>Crecido en el post-apocalíptico 2018, John Connor debe liderar la resistencia de los humanos contra los robots militaristas cada vez más dominantes. Pero cuando aparece Marcus Wright, su existencia confunde la misión cuando Connor intenta determinar si Wright ha venido del futuro o del pasado, y si es amigo o enemigo.</info>   
+<item>
+
+<item>
+<title>[COLOR white][B]Genesis (2015)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/ucuhu3kedlxgh'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/ucuhu3kedlxgh'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/72QHxLG.jpg</fanart>  
+<thumbnail>https://i.imgur.com/hPyh8xq.jpg</thumbnail>
+<info>El año es 2029. John Connor, líder de la resistencia continúa la guerra contra las máquinas. En la ofensiva de Los Ángeles, los temores de John del futuro desconocido comienzan a surgir cuando los espías de TECOM revelan un nuevo complot de SkyNet que lo atacará desde ambos frentes; pasado y futuro, y finalmente cambiará la guerra para siempre.</info>   
+<item>
+
+
+<item>
+<title>[COLOR white][B]Destino Oscuro (2019)[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/o74pq1gxalk01wq'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/o74pq1gxalk01wq'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/GRpdiv0.jpg</fanart>  
+<thumbnail>https://i.imgur.com/CfR0DMJ.jpg</thumbnail>
+<info>Décadas después de que Sarah Connor impidió el Día del Juicio, se envía un nuevo Terminator letal para eliminar al futuro líder de la resistencia. En una lucha para salvar a la humanidad, Sarah Connor, endurecida por la batalla, se une con un aliado inesperado y un súper soldado mejorado para detener al Terminator más mortal hasta el momento.</info>   
+<item>
+
+
+
+
