@@ -1,0 +1,104 @@
+<item>
+<title>[COLOR white]Piratas del Caribe: La maldición de la Perla Negra[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/o74ppdnob7zggl'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/o74ppdnob7zggl'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Jack Sparrow, un pirata libre del siglo XVIII, discute con un pirata rival empeñado en saquear Port Royal. Cuando secuestran a la hija del gobernador, Sparrow decide ayudar al amor de la niña a salvarla.</info>  
+<thumbnail>https://i.imgur.com/CIFPoRm.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]Piratas del Caribe: El cofre del Hombre Muerto[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/md188jv1axdw0d8'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/md188jv1axdw0d8'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El Capitán Jack Sparrow sale de una deuda de sangre con el fantasmal Davey Jones, también intenta evitar la condenación eterna.</info>  
+<thumbnail>https://i.imgur.com/xejuD4i.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]Piratas del Caribe: En el fin del mundo[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/gn0eemqef8zv73'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/gn0eemqef8zv73'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El Capitán Barbossa, que durante mucho tiempo se creyó muerto, ha vuelto a la vida y se dirige al borde de la Tierra con Will Turner y Elizabeth Swann. Pero nada es lo que parece.</info>  
+<thumbnail>https://i.imgur.com/9nDvhEM.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]Piratas del Caribe: En mareas misteriosas[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/xol0gzk1hl84kkl'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/xol0gzk1hl84kkl'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El Capitán Jack Sparrow se cruza con una mujer de su pasado, y no está seguro de si es amor, o si es una estafadora despiadada que lo está utilizando para encontrar la legendaria Fuente de la Juventud. Cuando ella lo obliga a bordo de Queen Anne's Revenge, el barco del formidable pirata Blackbeard, Jack se encuentra en una aventura inesperada en la que no sabe a quién temer más: Blackbeard o la mujer de su pasado.</info>  
+<thumbnail>https://i.imgur.com/Qrcpmy2.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]Piratas del Caribe: La venganza de Salazar[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = ''
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = ''
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy. </info>  
+<thumbnail>https://i.imgur.com/gZxh58N.jpg</thumbnail>      
+<item>
