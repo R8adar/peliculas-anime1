@@ -1704,3 +1704,362 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>Documental sobre la estafa realizada por Ismael Prego (Wismichu) en el Festival de Sitges con la proyección del video "Bocadillo" y dirigido por Carlos Padial sobre las reacciones del público y los medios de comunicación antes del evento.</info>  
 <thumbnail>https://cdn8.megadede.com/cdn/media/peli/8/3/6/4/1-medium.jpg?v=1</thumbnail>      
 <item>
+
+<item>
+<title>[COLOR white][B]Madagascar 2[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/w938isdlj2ry'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/w938isdlj2ry'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart>https://i.imgur.com/HxmIIM8.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Frankie[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/qnwhhk4bw4jz'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/qnwhhk4bw4jz'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Tres generaciones luchan contra una experiencia que les cambiará las vidas durante un día de vacaciones en Sintra, histórica ciudad portuguesa conocida por sus jardines, villas y palacios de ensueño.</info>
+<fanart>https://i.imgur.com/95Nw3UR.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]General Commander [/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/umh73izi4os'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/umh73izi4os'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un multimillonario de Hong Kong contrata a un especialista de un grupo de operaciones especiales para formar un equipo despiadado que tendrá una misión: eliminar a los criminales más notorios y peligrosos del mundo.</info>
+<fanart>https://i.imgur.com/MzJpkvI.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Hogar[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/gkcpj6g6h3s3h'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/gkcpj6g6h3s3h'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Juan conoce a Luciana en el peor momento de su vida. Construyen su relación de manera atípica: pasan el verano en Badur Hogar elaborando una serie de mentiras que, inesperadamente, los llevarán a enfrentar sus verdades.</info>
+<fanart>https://i.imgur.com/KnEFuTe.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]El Banquero[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/zmiqwpg6lc2y'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/zmiqwpg6lc2y'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Basándose en una historia real, The Banker, trata el conflicto de dos hombres de negocios afroamericanos, Bernard Garrett y Joe Morris, que crean un arriesgado plan para eludir la organización racialmente opresiva de los años 60 que evitaba que la comunidad afroamericana persiguiera el Sueño Americano. </info>
+<fanart>https://i.imgur.com/bMT2JXn.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Plan De Escape 3[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/65glx8841'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/65glx8841'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El experto en seguridad Ray Breslin (Stallone) es contratado para rescatar a la hija de un magnate de la tecnología de Hong Kong que ha sido secuestrada y puesta bajo custodia en una prisión de Letonia. Por si esto fuera poco, su novia (Jamie King) también es capturada. Ahora, él y su equipo (Dave Bautista & Curtis '50 Cent' Jackson) deberán realizar una misión de rescate que les llevará a enfrentarse a su peor enemigo mientras tratan de poner a salvo a los rehenes. </info>
+<fanart>https://i.imgur.com/5p0bon4.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Ventajas De Viajar En Tren[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/ny9le638y6'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/ny9le638y6'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Helga, editora en horas bajas, acaba de internar a su marido en un psiquiátrico. En el tren de vuelta, un desconocido se le presenta como Ángel Sanagustín, psiquiatra que trabaja en la misma clínica investigando trastornos de personalidad a través de los escritos de los pacientes. Durante el trayecto, Ángel le cuenta a Helga la historia de Martín Urales de Úbeda, un enfermo paranoico extremadamente peligroso obsesionado, entre otras cosas, con la basura. </info>
+<fanart>https://i.imgur.com/tBXihdV.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Campeones [/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/08o8gaxdb6s1c'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/08o8gaxdb6s1c'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Marco es el segundo entrenador de un equipo de baloncesto de la primera división española. Tiene problemas en el trabajo, con su pareja y con casi todo lo que le rodea. Es, más que nada, una cuestión de actitud frente a la vida.</info>
+<fanart>https://i.imgur.com/0si4Zh8.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]La Dama y El Vagabundo[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/uh6qofni62en'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/uh6qofni62en'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Reina es una perrita acostumbrada al lujo. Su vida ha estado llena de cuidados y mimos por parte de sus dueños, una pareja de clase alta que solo tenía ojos para ella. Todo cambia con la llegada del hijo de ambos, que provoca que Reina pase a un segundo plano. Dolida, Reina comienza a juntarse con Golfo, un perro vagabundo que solo conoce el mundo de la calle. A pesar de venir de entornos tan diferentes, sin embargo, ambos comienzan a tener una conexión que promete acabar con cualquier impedimento que se ponga en sus caminos. </info>
+<fanart>https://i.imgur.com/XYXI3Av.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Black And Blue[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/s4u06g8whoq'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/s4u06g8whoq'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una policía afroamericana novata de Detroit sorprende a unos policías corruptos asesinando a un narcotraficante, hechos que graba con su cámara. Ellos la perseguirán con el fin de destruir esas imágenes.</info>
+<fanart>https://i.imgur.com/lAlDNdA.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Amundsen[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/chh7r9henevf'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/chh7r9henevf'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Narra la vida del legendario explorador noruego Roald Amundsen (1872-1928, '), un hombre que estuvo obsesionado con conquistar las zonas polares. Dirigió la expedición a la Antártida que por primera vez alcanzó el Polo Sur. </info>
+<fanart>https://i.imgur.com/ZecYxFw.jpg</fanart>      
+<item>
+
+
+<item>
+<title>[COLOR white][B]Dark.Encounter[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/ypg63hkl4qb'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/ypg63hkl4qb'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Un año después de la desaparición de una niña de 8 años, su familia regresa a su pueblo natal para celebrar un memorial en su nombre. Esa misma tarde, una serie de luces extrañas aparecen en un bosque cercano y la familia sufre un siniestro que cambia para siempre sus vidas. El origen de las luces parece provenir de extraterrestres que, pese a las primeras y aterradoras apariencias, acaban guiando a la familia a la verdad que se esconde tras la desaparición de la pequeña. </info>
+<fanart>https://i.imgur.com/30Cjc7Q.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Luce[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/d7wpec374ix60'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/d7wpec374ix60'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Han pasado diez años desde que Amy (Naomi Watts) y Peter Edgar (Tim Roth) adoptasen un niño procedente de la guerra de Eritrea, donde tuvo lugar una cruenta guerra civil. Luce Edgar (Kelvin Harrison Jr.) se ha convertido en un estudiante modelo al que todo el mundo adora dentro de su comunidad en Arlington, Virginia. Una de sus profesoras, Harriet Wilson (Octavia Spencer, '), está convencida de que Luce se convertirá en un símbolo de la excelencia negra, un referente para sus compañeros y para la gente que le rodea. Sin embargo, Harriet descubre una alarmante actitud social con respecto a la violencia política en una de las redacciones que pide para el instituto, lo que hace temer que Luce esconde mucho más de lo que aparenta. Sus peores sospechas se confirman tras abrir su taquilla personal, donde encuentra algo que hace encender todas las alarmas. </info>
+<fanart>https://i.imgur.com/nIaeJxt.jpg</fanart>      
+<item>
+
+
+<item>
+<title>[COLOR white][B]Zombi Child[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/xcl8ptnr9khcb'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/xcl8ptnr9khcb'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Haití, 1962. Un hombre vuelve de entre los muertos para trabajar en las infernales plantaciones de azúcar. 55 años después, una joven haitiana le dice a sus amigas su secreto familiar, sin saber que esto llevará a una de ellas a cometer una atrocidad. </info>
+<fanart>https://i.imgur.com/r2hfb0I.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Retrato De Una Mujer En Llamas[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/vjbepm794l'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/vjbepm794l'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.</info>
+<fanart>https://i.imgur.com/BNyB7zq.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Aviones 2 Equipo de rescate [/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/k7su9gksygwdm'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/k7su9gksygwdm'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>En la primera película, el protagonista, Dusty, tuvo que demostrar todo su valor para alcanzar alturas imaginables y se convirtió en un gran competidor aéreo. En esta segunda entrega la historia se centra en un equipo de aviones de bomberos cuya misión es proteger el Parque Nacional de Piston Peak de un terrible incendio. Cuando Dusty (de nuevo con la voz de Dane Cook) se da cuenta de que su motor está dañado, cambia las competiciones de carreras para unirse al veterano equipo de rescate contraincendios.
+Juntos se jugarán la vida por apagar un incendio enorme, y Dusty se dará cuenta de lo que cuesta ser un héroe de verdad.</info>
+<fanart>https://i.imgur.com/3d4VoSi.jpg</fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Bohemian Rhapsody[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/vcxvswruu6i2a'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/vcxvswruu6i2a'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>'Bohemian Rhapsody' es una celebración del grupo Queen, de su música y de su extraordinario cantante Freddie Mercury, que desafió estereotipos e hizo añicos tradiciones para convertirse en uno de los showmans más queridos del mundo. La película plasma el meteórico ascenso de la banda al olimpo de la música a través de sus icónicas canciones y su revolucionario sonido, su crisis cuando el estilo de vida de Mercury estuvo fuera de control, y su triunfal reunión en la víspera del Live Aid, en la que Mercury, mientras sufría una enfermedad que amenazaba su vida, lidera a la banda en uno de los conciertos de rock más grandes de la historia. Refleja asimismo cómo se cimentó el legado de una banda que siempre se pareció más a una familia, y que continúa inspirando a propios y extraños, soñadores y amantes de la música hasta nuestros días. </info>
+<fanart>https://i.imgur.com/JhMmYeD.jpg</fanart>      
+<item>
