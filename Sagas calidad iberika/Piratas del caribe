@@ -90,11 +90,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = ''
+   url = 'https://mixdrop.co/f/md18876wc6g0mp'
    try:
        u = resolveurl.resolve(url)
    except:
-       u = ''
+       u = 'https://mixdrop.co/f/md18876wc6g0mp'
    return u
 ]]></expres>
 <page></page>

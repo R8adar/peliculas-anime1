@@ -1,0 +1,147 @@
+<item>
+<title>[COLOR white]A Todo Gas 1[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/84133qnktgn8lo'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/84133qnktgn8lo'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Una misteriosa banda de delincuentes se dedica a robar camiones en marcha desde vehículos deportivos. La policía decide infiltrar un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tunning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complicará cuando se enamore de su hermana. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/x5HZGDs.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 2[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/0v9pm78vhzd47d'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/0v9pm78vhzd47d'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El agente del FBI Brian O'Connor (Paul Walker) cayó en desgracia al ver su lealtad puesta a prueba en su anterior trabajo, el mundo de las carreras ilegales de Los Angeles. La decisión de O’Connor le permitió conservar su honor, pero le hizo perder su insignia y toda posibilidad de rehabilitarse. Ahora ha pasado el tiempo, O’Connor está en otra ciudad y tiene una última oportunidad. A los federales de Miami les está costando mucho detener a Carter Vellone (Cole Hauser), un empresario que utiliza su negocio como tapadera para un cartel internacional de blanqueo de dinero. Aduanas lleva un año sometiendo a Verone a una estricta vigilancia, y lo único que han podido establecer es su relación con las carreras callejeras ilegales. El tiempo se acaba, y los agentes deciden llamar a O’Connor para que haga lo que sabe hacer mejor que nadie: volver a infiltrarse. Pero antes pone algunas condiciones para aceptar la misión que puede permitirle recuperar su insignia. La primera: trabajar con su amigo de infancia y antiguo delincuente Roman Pearce (Tyrese), otro enfermo de la velocidad. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/dfFvdaE.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 3[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/en61164palqw78'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/en61164palqw78'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su padre, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de "drift" (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag. En su primera incursión en el salvaje mundo de las carreras de "drift", Shaun acepta ingenuamente conducir un D.K, el Rey del Drift, que pertenece a los Yakuza, la mafia japonesa. Para pagar su deuda, no tiene más remedio que codearse con el hampa de Tokio y jugarse la vida. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/6AnjXPh.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 4[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/1v9mmv1ec7pp96'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/1v9mmv1ec7pp96'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/gAMILwE.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 5[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/wnkddnqxh0gqvpv'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/wnkddnqxh0gqvpv'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Desde que Brian O'Conner (Paul Walker) y Mia Toretto (Jordana Brewster) sacaron a Dom Toretto (Vin Diesel) de la cárcel, se han visto obligados a huir y cruzar muchas fronteras para evitar a la policía. Atrapados en Río de Janeiro, una vez más tienen que darse a la fuga; pero los tres se dan cuenta de que la única forma de poner fin a su huida permanente es enfrentarse de una vez por todas al empresario corrupto que quiere verlos muertos. Pero no es éste el único que les sigue la pista. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/ZXTnOv5.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 6[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/zpokk9klixk1jr'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/zpokk9klixk1jr'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso 100 millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/xJPeACu.jpg</thumbnail>      
+<item>
+
+<item>
+<title>[COLOR white]A Todo Gas 7[/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.co/f/8413omgwh8jvnz'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.co/f/8413omgwh8jvnz'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info>Ha pasado un año desde que el equipo de Dominic Torreto y Brian pudiera regresar finalmente a Estados Unidos, tras ser indultados. Desean adaptarse a una vida en la legalidad, pero el entorno ya no es el mismo. Dom intenta acercarse a Letty, y Brian lucha para acostumbrarse a la vida en una urbanización con Mia y su hijo. Ninguno de ellos imagina que un frío asesino británico, entrenado para realizar operaciones secretas, se cruzará en sus vidas para convertirse en su mayor enemigo. (FILMAFFINITY)</info>  
+<thumbnail>https://i.imgur.com/wTlIa4j.jpg</thumbnail>      
+<item>
+
